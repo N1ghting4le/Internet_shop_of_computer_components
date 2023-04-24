@@ -1,0 +1,7403 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "videocards",
+      "image": "images/videocard_icon.png",
+      "amount": "44 products"
+    },
+    {
+      "id": 2,
+      "name": "CPUs",
+      "image": "images/CPU_icon.jpg",
+      "amount": "25 products"
+    },
+    {
+      "id": 3,
+      "name": "motherboards",
+      "image": "images/motherboard_icon.png",
+      "amount": "10 products"
+    },
+    {
+      "id": 4,
+      "name": "RAM",
+      "image": "images/RAM_icon.png",
+      "amount": "7 products"
+    },
+    {
+      "id": 5,
+      "name": "cooling systems",
+      "image": "images/cooling_system_icon.jpg",
+      "amount": "5 products"
+    },
+    {
+      "id": 6,
+      "name": "SSDs",
+      "image": "images/SSD_icon.jpg",
+      "amount": "12 products"
+    },
+    {
+      "id": 7,
+      "name": "HDDs",
+      "image": "images/hard_disk_icon.jpg",
+      "amount": "11 products"
+    },
+    {
+      "id": 8,
+      "name": "computer cases",
+      "image": "images/computer_case_icon.png",
+      "amount": "5 products"
+    },
+    {
+      "id": 9,
+      "name": "power supplies",
+      "image": "images/power_supply_icon.jpg",
+      "amount": "6 products"
+    }
+  ],
+  "cart": [],
+  "videocards": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer of GPU",
+        "values": [
+          "NVIDIA",
+          "AMD"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Manufacturer",
+        "values": [
+          "ASUS",
+          "MSI",
+          "Palit",
+          "Gigabyte",
+          "ASRock",
+          "Sapphire"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "GPU",
+        "values": [
+          "RTX 4090",
+          "RTX 4080",
+          "RTX 4070 Ti",
+          "RTX 3090 Ti",
+          "RTX 3090",
+          "RTX 3080 Ti",
+          "RTX 3080",
+          "RTX 3070 Ti",
+          "RTX 3070",
+          "RTX 3060 Ti",
+          "RTX 3060",
+          "RTX 3050",
+          "RX 7900 XTX",
+          "RX 7900 XT",
+          "RX 6950 XT",
+          "RX 6900 XT",
+          "RX 6800 XT",
+          "RX 6800",
+          "RX 6700 XT",
+          "RX 6700",
+          "RX 6650 XT",
+          "RX 6600",
+          "RX 6500 XT",
+          "RX 6400"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "videocard1",
+        "name": "Palit GeForce RTX 4090 GameRock 24G",
+        "image": "images/Palit_GeForce_RTX_4090_GameRock_24G.jpeg",
+        "description": "24 GB GDDR6X, 2230 Mhz / 2520 Mhz, 16384sp, 128 RT-cores, 384 bit, 3.5 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 2000,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 4090"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 4090"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "16384"
+          },
+          {
+            "name": "RT-core",
+            "value": "128"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "1200 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3.5 slots"
+          },
+          {
+            "name": "Length",
+            "value": "329.4 mm"
+          },
+          {
+            "name": "Width",
+            "value": "137.5 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard2",
+        "name": "Gigabyte GeForce RTX 4090 Gaming OC 24G",
+        "image": "images/Gigabyte_GeForce_RTX_4090_Gaming_OC_24G.jpeg",
+        "description": "24 GB GDDR6X, 2230 Mhz / 2535 Mhz, 16384sp, 128 RT-cores, 384 bit, 3.65 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 2500,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 4090"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 4090"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "16384"
+          },
+          {
+            "name": "RT-core",
+            "value": "128"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "1000 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3.65 slots"
+          },
+          {
+            "name": "Length",
+            "value": "340 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150.2 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard3",
+        "name": "Palit GameRock OmniBlack GeForce RTX 4080 16GB",
+        "image": "images/Palit_GameRock_OmniBlack_GeForce_RTX_4080_16GB.jpeg",
+        "description": "16 GB GDDR6X, 2210 Mhz / 2505 Mhz, 9728sp, 76 RT-cores, 256 bit, 3.5 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 1700,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 4080"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 4080"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "9728"
+          },
+          {
+            "name": "RT-core",
+            "value": "76"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "850 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3.5 slots"
+          },
+          {
+            "name": "Length",
+            "value": "329.4 mm"
+          },
+          {
+            "name": "Width",
+            "value": "137.5 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard4",
+        "name": "ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition",
+        "image": "images/ASUS_TUF_Gaming_GeForce_RTX_4080_16GB_GDDR6X_OC_Edition.jpeg",
+        "description": "16 GB GDDR6X, 2210 Mhz / 2625 Mhz, 9728sp, 76 RT-cores, 256 bit, 3.65 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 2000,
+        "filters": [
+          "NVIDIA",
+          "ASUS",
+          "RTX 4080"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 4080"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "9728"
+          },
+          {
+            "name": "RT-core",
+            "value": "76"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "850 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3.65 slots"
+          },
+          {
+            "name": "Length",
+            "value": "348.2 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard5",
+        "name": "ASRock Radeon RX 7900 XTX Phantom Gaming 24GB OC",
+        "image": "images/ASRock_Radeon_RX_7900_XTX_Phantom_Gaming_24GB_OC.jpeg",
+        "description": "24 GB GDDR6, 1855 Mhz / 2615 Mhz, 6144sp, 96 RT-cores, 384 bit, 2.8 slots, nutrition 8+8+8 pin, HDMI, DisplayPort",
+        "price": 1700,
+        "filters": [
+          "AMD",
+          "ASRock",
+          "RX 7900 XTX"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 7900 XTX"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "6144"
+          },
+          {
+            "name": "RT-core",
+            "value": "96"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "1000 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.8 slots"
+          },
+          {
+            "name": "Length",
+            "value": "330 mm"
+          },
+          {
+            "name": "Width",
+            "value": "140 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard6",
+        "name": "Gigabyte Radeon RX 7900 XTX Gaming OC 24G",
+        "image": "images/Gigabyte_Radeon_RX_7900_XTX_Gaming_OC_24G.jpeg",
+        "description": "24 GB GDDR6, 1855 Mhz / 2525 Mhz, 6144sp, 96 RT-cores, 384 bit, 2.5 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 1700,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 7900 XTX"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 7900 XTX"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "6144"
+          },
+          {
+            "name": "RT-core",
+            "value": "96"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "850 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.5 slots"
+          },
+          {
+            "name": "Length",
+            "value": "331 mm"
+          },
+          {
+            "name": "Width",
+            "value": "138 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard7",
+        "name": "Sapphire Pulse Radeon RX 7900 XT",
+        "image": "images/Sapphire_Pulse_Radeon_RX_7900_XT.jpeg",
+        "description": "20 GB GDDR6, 1500 Mhz / 2450 Mhz, 5376sp, 84 RT-cores, 320 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1350,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 7900 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 7900 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "5376"
+          },
+          {
+            "name": "RT-core",
+            "value": "84"
+          },
+          {
+            "name": "VRAM",
+            "value": "20 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "313 mm"
+          },
+          {
+            "name": "Width",
+            "value": "133.75 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard8",
+        "name": "Gigabyte Radeon RX 7900 XT 20G",
+        "image": "images/Gigabyte_Radeon_RX_7900_XT_20G.jpeg",
+        "description": "20 GB GDDR6, 1500 Mhz / 2400 Mhz, 5376sp, 84 RT-cores, 320 bit, 2.5 slots, nutrition 8+8 pin, HDMI, DisplayPort, USB Type-C",
+        "price": 1400,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 7900 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 7900 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "5376"
+          },
+          {
+            "name": "RT-core",
+            "value": "84"
+          },
+          {
+            "name": "VRAM",
+            "value": "20 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.5 slots"
+          },
+          {
+            "name": "Length",
+            "value": "276 mm"
+          },
+          {
+            "name": "Width",
+            "value": "113 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard9",
+        "name": "Palit GeForce RTX 4070 Ti GamingPro",
+        "image": "images/Palit_GeForce_RTX_4070_Ti_GamingPro.jpeg",
+        "description": "12 GB GDDR6X, 2310 Mhz / 2610 Mhz, 7680sp, 60 RT-cores, 192 bit, 3.2 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 1260,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 4070 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 4070 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "7680"
+          },
+          {
+            "name": "RT-core",
+            "value": "60"
+          },
+          {
+            "name": "VRAM",
+            "value": "12 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3.2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "328.9 mm"
+          },
+          {
+            "name": "Width",
+            "value": "132.9 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard10",
+        "name": "MSI GeForce RTX 4070 Ti Ventus 3X 12G OC",
+        "image": "images/MSI_GeForce_RTX_4070_Ti_Ventus_3X_12G_OC.jpeg",
+        "description": "12 GB GDDR6X, 2310 Mhz / 2655 Mhz, 7680sp, 60 RT-cores, 192 bit, 2.6 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 1260,
+        "filters": [
+          "NVIDIA",
+          "MSI",
+          "RTX 4070 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 4070 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "7680"
+          },
+          {
+            "name": "RT-core",
+            "value": "60"
+          },
+          {
+            "name": "VRAM",
+            "value": "12 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "700 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.6 slots"
+          },
+          {
+            "name": "Length",
+            "value": "308 mm"
+          },
+          {
+            "name": "Width",
+            "value": "123 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard11",
+        "name": "Gigabyte GeForce RTX 3090 Ti Gaming OC 24G",
+        "image": "images/Gigabyte_GeForce_RTX_3090_Ti_Gaming_OC_24G.jpeg",
+        "description": "24 GB GDDR6X, 1670 Mhz / 1905 Mhz, 10752sp, 84 RT-cores, 384 bit, 3.2 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 1620,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3090 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3090 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "10752"
+          },
+          {
+            "name": "RT-core",
+            "value": "84"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "850 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3.2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "331 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard12",
+        "name": "ASUS TUF Gaming GeForce RTX 3090 Ti OC Edition 24GB",
+        "image": "images/ASUS_TUF_Gaming_GeForce_RTX_3090_Ti_OC_Edition_24GB.jpeg",
+        "description": "24 GB GDDR6X, 1670 Mhz / 1950 Mhz, 10752sp, 84 RT-cores, 384 bit, 3.2 slots, nutrition 16 pin, HDMI, DisplayPort",
+        "price": 1620,
+        "filters": [
+          "NVIDIA",
+          "ASUS",
+          "RTX 3090 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3090 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "10752"
+          },
+          {
+            "name": "RT-core",
+            "value": "84"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "16 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "1000 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3.2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "325.9 mm"
+          },
+          {
+            "name": "Width",
+            "value": "140.2 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard13",
+        "name": "Sapphire Nitro+ Radeon RX 6950 XT Gaming OC",
+        "image": "images/Sapphire_Nitro+_Radeon_RX_6950_XT_Gaming_OC.jpeg",
+        "description": "16 GB GDDR6, 2100 Mhz / 2324 Mhz, 5120sp, 80 RT-cores, 256 bit, 2.7 slots, nutrition 6+8+8 pin, HDMI, DisplayPort",
+        "price": 1475,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6950 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6950 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "5120"
+          },
+          {
+            "name": "RT-core",
+            "value": "80"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "6+8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "850 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "320 mm"
+          },
+          {
+            "name": "Width",
+            "value": "134.85 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard14",
+        "name": "Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6",
+        "image": "images/Gigabyte_Radeon_RX_6900_XT_Gaming_OC_16GB_GDDR6.jpeg",
+        "description": "16 GB GDDR6, 1825 Mhz / 2285 Mhz, 5120sp, 80 RT-cores, 256 bit, 2.5 slots, nutrition 8+8+8 pin, HDMI, DisplayPort",
+        "price": 1240,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 6900 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6900 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "5120"
+          },
+          {
+            "name": "RT-core",
+            "value": "80"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "850 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.5 slots"
+          },
+          {
+            "name": "Length",
+            "value": "286 mm"
+          },
+          {
+            "name": "Width",
+            "value": "118 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard15",
+        "name": "Gigabyte Aorus Radeon RX 6900 XT Xtreme Waterforce WB 16GB GDDR6",
+        "image": "images/Gigabyte_Aorus_Radeon_RX_6900_XT_Xtreme_Waterforce_WB_16GB_GDDR6.jpeg",
+        "description": "16 GB GDDR6, 1825 Mhz / 2525 Mhz, 5120sp, 80 RT-cores, 256 bit, 3 slots, nutrition 8+8+8 pin, HDMI, DisplayPort",
+        "price": 1250,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 6900 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6900 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "5120"
+          },
+          {
+            "name": "RT-core",
+            "value": "80"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "900 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3 slots"
+          },
+          {
+            "name": "Length",
+            "value": "282 mm"
+          },
+          {
+            "name": "Width",
+            "value": "146 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard16",
+        "name": "Sapphire Radeon RX 6800 XT Nitro+ SE 16GB GDDR6",
+        "image": "images/Sapphire_Radeon_RX_6800_XT_Nitro+_SE_16GB_GDDR6.jpeg",
+        "description": "16 GB GDDR6, 2015 Mhz / 2360 Mhz, 4608sp, 72 RT-cores, 256 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort, USB Type-C",
+        "price": 1050,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6800 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6800 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "4608"
+          },
+          {
+            "name": "RT-core",
+            "value": "72"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "850 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "310 mm"
+          },
+          {
+            "name": "Width",
+            "value": "134.3 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard17",
+        "name": "Palit GeForce RTX 3090 GamingPro 24GB GDDR6X",
+        "image": "images/Palit_GeForce_RTX_3090_GamingPro_24GB_GDDR6X.jpeg",
+        "description": "24 GB GDDR6X, 1400 Mhz / 1695 Mhz, 10496sp, 82 RT-cores, 384 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1325,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3090"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3090"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "10496"
+          },
+          {
+            "name": "RT-core",
+            "value": "82"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "294 mm"
+          },
+          {
+            "name": "Width",
+            "value": "112 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard18",
+        "name": "Gigabyte GeForce RTX 3090 Eagle 24GB GDDR6X",
+        "image": "images/Gigabyte_GeForce_RTX_3090_Eagle_24GB_GDDR6X.jpeg",
+        "description": "24 GB GDDR6X, 1400 Mhz / 1695 Mhz, 10496sp, 82 RT-cores, 384 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1425,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3090"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3090"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "10496"
+          },
+          {
+            "name": "RT-core",
+            "value": "82"
+          },
+          {
+            "name": "VRAM",
+            "value": "24 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "320 mm"
+          },
+          {
+            "name": "Width",
+            "value": "128 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard19",
+        "name": "Palit GeForce RTX 3080 Ti GamingPro 12GB GDDR6X",
+        "image": "images/Palit_GeForce_RTX_3080_Ti_GamingPro_12GB_GDDR6X.jpeg",
+        "description": "12 GB GDDR6X, 1370 Mhz / 1665 Mhz, 10240sp, 80 RT-cores, 384 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1425,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3080 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3080 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "10240"
+          },
+          {
+            "name": "RT-core",
+            "value": "80"
+          },
+          {
+            "name": "VRAM",
+            "value": "12 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "294 mm"
+          },
+          {
+            "name": "Width",
+            "value": "112 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard20",
+        "name": "Gigabyte GeForce RTX 3080 Ti Gaming OC 12GB GDDR6X",
+        "image": "images/Gigabyte_GeForce_RTX_3080_Ti_Gaming_OC_12GB_GDDR6X.jpeg",
+        "description": "12 GB GDDR6X, 1370 Mhz / 1710 Mhz, 10240sp, 80 RT-cores, 384 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1580,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3080 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3080 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "10240"
+          },
+          {
+            "name": "RT-core",
+            "value": "80"
+          },
+          {
+            "name": "VRAM",
+            "value": "12 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "320 mm"
+          },
+          {
+            "name": "Width",
+            "value": "129 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard21",
+        "name": "Sapphire Pulse Radeon RX 6800 16GB GDDR6",
+        "image": "images/Sapphire_Pulse_Radeon_RX_6800_16GB_GDDR6.jpeg",
+        "description": "16 GB GDDR6, 1700 Mhz / 2170 Mhz, 3840sp, 60 RT-cores, 256 bit, 2.5 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 950,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6800"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6800"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "3840"
+          },
+          {
+            "name": "RT-core",
+            "value": "60"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "650 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.5 slots"
+          },
+          {
+            "name": "Length",
+            "value": "303 mm"
+          },
+          {
+            "name": "Width",
+            "value": "127.3 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard22",
+        "name": "Gigabyte Radeon RX 6800 Gaming OC 16GB GDDR6",
+        "image": "images/Gigabyte_Radeon_RX_6800_Gaming_OC_16GB_GDDR6.jpeg",
+        "description": "16 GB GDDR6, 1700 Mhz / 2155 Mhz, 3840sp, 60 RT-cores, 256 bit, 2 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1165,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 6800"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6800"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "3840"
+          },
+          {
+            "name": "RT-core",
+            "value": "60"
+          },
+          {
+            "name": "VRAM",
+            "value": "16 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "650 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "286 mm"
+          },
+          {
+            "name": "Width",
+            "value": "112 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard23",
+        "name": "Sapphire Radeon RX 6700 XT OC 12GB GDDR6",
+        "image": "images/Sapphire_Radeon_RX_6700_XT_OC_12GB_GDDR6.jpeg",
+        "description": "12 GB GDDR6, 2321 Mhz / 2581 Mhz, 2560sp, 40 RT-cores, 192 bit, 2 slots, nutrition 6+8 pin, HDMI, DisplayPort",
+        "price": 675,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6700 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6700 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "2560"
+          },
+          {
+            "name": "RT-core",
+            "value": "40"
+          },
+          {
+            "name": "VRAM",
+            "value": "12 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "6+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "650 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "260 mm"
+          },
+          {
+            "name": "Width",
+            "value": "119.85 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard24",
+        "name": "Gigabyte Radeon RX 6700 XT Eagle 12GB GDDR6",
+        "image": "images/Gigabyte_Radeon_RX_6700_XT_Eagle_12GB_GDDR6.jpeg",
+        "description": "12 GB GDDR6, 2321 Mhz / 2581 Mhz, 2560sp, 40 RT-cores, 192 bit, 2 slots, nutrition 6+8 pin, HDMI, DisplayPort",
+        "price": 715,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 6700 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6700 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "2560"
+          },
+          {
+            "name": "RT-core",
+            "value": "40"
+          },
+          {
+            "name": "VRAM",
+            "value": "12 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "6+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "650 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "282 mm"
+          },
+          {
+            "name": "Width",
+            "value": "113 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard25",
+        "name": "Palit GeForce RTX 3080 GamingPro V1 10GB GDDR6X",
+        "image": "images/Palit_GeForce_RTX_3080_GamingPro_V1_10GB_GDDR6X.jpeg",
+        "description": "10 GB GDDR6X, 1440 Mhz / 1710 Mhz, 8704sp, 68 RT-cores, 320 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1100,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3080"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3080"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "8704"
+          },
+          {
+            "name": "RT-core",
+            "value": "68"
+          },
+          {
+            "name": "VRAM",
+            "value": "10 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "294 mm"
+          },
+          {
+            "name": "Width",
+            "value": "112 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard26",
+        "name": "Gigabyte GeForce RTX 3080 Gaming OC 10GB GDDR6X (rev. 2.0)",
+        "image": "images/Gigabyte_GeForce_RTX_3080_Gaming_OC_10GB_GDDR6X_(rev. 2.0).jpeg",
+        "description": "10 GB GDDR6X, 1440 Mhz / 1800 Mhz, 8704sp, 68 RT-cores, 320 bit, 2.75 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 1170,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3080"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3080"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "8704"
+          },
+          {
+            "name": "RT-core",
+            "value": "68"
+          },
+          {
+            "name": "VRAM",
+            "value": "10 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.75 slots"
+          },
+          {
+            "name": "Length",
+            "value": "320 mm"
+          },
+          {
+            "name": "Width",
+            "value": "129 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard27",
+        "name": "Palit GeForce RTX 3070 Ti GamingPro 8GB GDDR6X",
+        "image": "images/Palit_GeForce_RTX_3070_Ti_GamingPro_8GB_GDDR6X.jpeg",
+        "description": "8 GB GDDR6X, 1580 Mhz / 1770 Mhz, 6144sp, 48 RT-cores, 256 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 925,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3070 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3070 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "6144"
+          },
+          {
+            "name": "RT-core",
+            "value": "48"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "700 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "294 mm"
+          },
+          {
+            "name": "Width",
+            "value": "112 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard28",
+        "name": "MSI GeForce RTX 3070 Ti Ventus 3X 8G OC GDDR6X",
+        "image": "images/MSI_GeForce_RTX_3070_Ti_Ventus_3X_8G_OC_GDDR6X.jpeg",
+        "description": "8 GB GDDR6X, 1580 Mhz / 1800 Mhz, 6144sp, 48 RT-cores, 256 bit, 3 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 945,
+        "filters": [
+          "NVIDIA",
+          "MSI",
+          "RTX 3070 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3070 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "6144"
+          },
+          {
+            "name": "RT-core",
+            "value": "48"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6X"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "750 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "3 slots"
+          },
+          {
+            "name": "Length",
+            "value": "316 mm"
+          },
+          {
+            "name": "Width",
+            "value": "121 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard29",
+        "name": "Sapphire Radeon RX 6700 10GB",
+        "image": "images/Sapphire_Radeon_RX_6700_10GB.jpeg",
+        "description": "10 GB GDDR6, 1941 Mhz / 2495 Mhz, 2304sp, 36 RT-cores, 160 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 660,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6700"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6700"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "2304"
+          },
+          {
+            "name": "RT-core",
+            "value": "36"
+          },
+          {
+            "name": "VRAM",
+            "value": "10 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "650 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "242 mm"
+          },
+          {
+            "name": "Width",
+            "value": "119.85 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard30",
+        "name": "Sapphire Pulse Radeon RX 6650 XT 8GB GDDR6",
+        "image": "images/Sapphire_Pulse_Radeon_RX_6650_XT_8GB_GDDR6.jpeg",
+        "description": "8 GB GDDR6, 2055 Mhz / 2635 Mhz, 2048sp, 32 RT-cores, 128 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 490,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6650 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x8 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6650 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "2048"
+          },
+          {
+            "name": "RT-core",
+            "value": "32"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "500 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "240 mm"
+          },
+          {
+            "name": "Width",
+            "value": "119.85 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard31",
+        "name": "Gigabyte Radeon RX 6650 XT Gaming OC 8G",
+        "image": "images/Gigabyte_Radeon_RX_6650_XT_Gaming_OC_8G.jpeg",
+        "description": "8 GB GDDR6, 2055 Mhz / 2694 Mhz, 2048sp, 32 RT-cores, 128 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 515,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 6650 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x8 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6650 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "2048"
+          },
+          {
+            "name": "RT-core",
+            "value": "32"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "500 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "282 mm"
+          },
+          {
+            "name": "Width",
+            "value": "115 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard32",
+        "name": "Sapphire Pulse Radeon RX 6600 8GB GDDR6",
+        "image": "images/Sapphire_Pulse_Radeon_RX_6600_8GB_GDDR6.jpeg",
+        "description": "8 GB GDDR6, 1626 Mhz / 2491 Mhz, 1792sp, 28 RT-cores, 128 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 440,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6600"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x8 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6600"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "1792"
+          },
+          {
+            "name": "RT-core",
+            "value": "28"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "500 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "193 mm"
+          },
+          {
+            "name": "Width",
+            "value": "120.05 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard33",
+        "name": "Gigabyte GeForce RTX 3070 Eagle OC 8GB GDDR6 (rev. 2.0)",
+        "image": "images/Gigabyte_GeForce_RTX_3070_Eagle_OC_8GB_GDDR6_(rev. 2.0).jpeg",
+        "description": "8 GB GDDR6, 1500 Mhz / 1770 Mhz, 5888sp, 46 RT-cores, 256 bit, 2 slots, nutrition 6+8 pin, HDMI, DisplayPort",
+        "price": 790,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3070"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3070"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "5888"
+          },
+          {
+            "name": "RT-core",
+            "value": "46"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "6+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "650 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "282 mm"
+          },
+          {
+            "name": "Width",
+            "value": "115 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard34",
+        "name": "Palit GeForce RTX 3070 GamingPro 8GB GDDR6",
+        "image": "images/Palit_GeForce_RTX_3070_GamingPro_8GB_GDDR6.jpeg",
+        "description": "8 GB GDDR6, 1500 Mhz / 1725 Mhz, 5888sp, 46 RT-cores, 256 bit, 2.7 slots, nutrition 8+8 pin, HDMI, DisplayPort",
+        "price": 805,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3070"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3070"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "5888"
+          },
+          {
+            "name": "RT-core",
+            "value": "46"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8+8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "650 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2.7 slots"
+          },
+          {
+            "name": "Length",
+            "value": "294 mm"
+          },
+          {
+            "name": "Width",
+            "value": "112 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard35",
+        "name": "Gigabyte GeForce RTX 3060 Ti Eagle OC 8G",
+        "image": "images/Gigabyte_GeForce_RTX_3060_Ti_Eagle_OC_8G.jpeg",
+        "description": "8 GB GDDR6, 1410 Mhz / 1695 Mhz, 4864sp, 38 RT-cores, 256 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 595,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3060 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3060 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "4864"
+          },
+          {
+            "name": "RT-core",
+            "value": "38"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "600 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "242 mm"
+          },
+          {
+            "name": "Width",
+            "value": "124 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard36",
+        "name": "Palit GeForce RTX 3060 Ti Dual V1 8GB GDDR6",
+        "image": "images/Palit_GeForce_RTX_3060_Ti_Dual_V1_8GB_GDDR6.jpeg",
+        "description": "8 GB GDDR6, 1410 Mhz / 1665 Mhz, 4864sp, 38 RT-cores, 256 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 610,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3060 Ti"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3060 Ti"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "4864"
+          },
+          {
+            "name": "RT-core",
+            "value": "38"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "550 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "247 mm"
+          },
+          {
+            "name": "Width",
+            "value": "120 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard37",
+        "name": "Sapphire Pulse Radeon RX 6500 XT",
+        "image": "images/Sapphire_Pulse_Radeon_RX_6500_XT.jpeg",
+        "description": "4 GB GDDR6, 2610 Mhz / 2825 Mhz, 1024sp, 16 RT-cores, 64 bit, 2 slots, nutrition 6 pin, HDMI, DisplayPort",
+        "price": 285,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6500 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6500 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "1024"
+          },
+          {
+            "name": "RT-core",
+            "value": "16"
+          },
+          {
+            "name": "VRAM",
+            "value": "4 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "6 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "400 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "194 mm"
+          },
+          {
+            "name": "Width",
+            "value": "107 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard38",
+        "name": "MSI Radeon RX 6500 XT MECH 2X 4G OC",
+        "image": "images/MSI_Radeon_RX_6500_XT_MECH_2X_4G_OC.jpeg",
+        "description": "4 GB GDDR6, 2610 Mhz / 2825 Mhz, 1024sp, 16 RT-cores, 64 bit, 2 slots, nutrition 6 pin, HDMI, DisplayPort",
+        "price": 290,
+        "filters": [
+          "AMD",
+          "MSI",
+          "RX 6500 XT"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6500 XT"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "1024"
+          },
+          {
+            "name": "RT-core",
+            "value": "16"
+          },
+          {
+            "name": "VRAM",
+            "value": "4 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "6 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "400 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "172 mm"
+          },
+          {
+            "name": "Width",
+            "value": "112 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard39",
+        "name": "Gigabyte Radeon RX 6400 Eagle 4G",
+        "image": "images/Gigabyte_Radeon_RX_6400_Eagle_4G.jpeg",
+        "description": "4 GB GDDR6, 1923 Mhz / 2321 Mhz, 768sp, 12 RT-cores, 64 bit, 2 slots, nutrition no, HDMI, DisplayPort",
+        "price": 205,
+        "filters": [
+          "AMD",
+          "Gigabyte",
+          "RX 6400"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x4 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6400"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "768"
+          },
+          {
+            "name": "RT-core",
+            "value": "12"
+          },
+          {
+            "name": "VRAM",
+            "value": "4 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "no"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "350 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "192 mm"
+          },
+          {
+            "name": "Width",
+            "value": "117 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard40",
+        "name": "Sapphire Pulse Radeon RX 6400 4GB GDDR6",
+        "image": "images/Sapphire_Pulse_Radeon_RX_6400_4GB_GDDR6.jpeg",
+        "description": "4 GB GDDR6, 1923 Mhz / 2321 Mhz, 768sp, 12 RT-cores, 64 bit, 1 slot, nutrition no, HDMI, DisplayPort",
+        "price": 215,
+        "filters": [
+          "AMD",
+          "Sapphire",
+          "RX 6400"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x4 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "Radeon RX 6400"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "768"
+          },
+          {
+            "name": "RT-core",
+            "value": "12"
+          },
+          {
+            "name": "VRAM",
+            "value": "4 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "no"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "350 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "1 slot"
+          },
+          {
+            "name": "Length",
+            "value": "170 mm"
+          },
+          {
+            "name": "Width",
+            "value": "69 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard41",
+        "name": "Palit GeForce RTX 3060 StormX 8GB GDDR6",
+        "image": "images/Palit_GeForce_RTX_3060_StormX_8GB_GDDR6.jpeg",
+        "description": "8 GB GDDR6, 1320 Mhz / 1777 Mhz, 3584sp, 28 RT-cores, 128 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 450,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3060"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3060"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "3584"
+          },
+          {
+            "name": "RT-core",
+            "value": "28"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "550 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "170 mm"
+          },
+          {
+            "name": "Width",
+            "value": "125 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard42",
+        "name": "Gigabyte GeForce RTX 3060 Gaming OC 8G",
+        "image": "images/Gigabyte_GeForce_RTX_3060_Gaming_OC_8G.jpeg",
+        "description": "8 GB GDDR6, 1320 Mhz / 1807 Mhz, 3584sp, 28 RT-cores, 128 bit, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 495,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3060"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x16 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3060"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "3584"
+          },
+          {
+            "name": "RT-core",
+            "value": "28"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "550 Wt"
+          },
+          {
+            "name": "Length",
+            "value": "198 mm"
+          },
+          {
+            "name": "Width",
+            "value": "121 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard43",
+        "name": "Palit GeForce RTX 3050 StormX",
+        "image": "images/Palit_GeForce_RTX_3050_StormX.jpeg",
+        "description": "8 GB GDDR6, 1550 Mhz / 1777 Mhz, 2560sp, 20 RT-cores, 128 bit, 2 slots, nutrition 6 pin, HDMI, DisplayPort, DVI",
+        "price": 380,
+        "filters": [
+          "NVIDIA",
+          "Palit",
+          "RTX 3050"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x8 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3050"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "2560"
+          },
+          {
+            "name": "RT-core",
+            "value": "20"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "6 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "550 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "162 mm"
+          },
+          {
+            "name": "Width",
+            "value": "117 mm"
+          }
+        ]
+      },
+      {
+        "id": "videocard44",
+        "name": "Gigabyte GeForce RTX 3050 Eagle OC 8G",
+        "image": "images/Gigabyte_GeForce_RTX_3050_Eagle_OC_8G.jpeg",
+        "description": "8 GB GDDR6, 1550 Mhz / 1792 Mhz, 2560sp, 20 RT-cores, 128 bit, 2 slots, nutrition 8 pin, HDMI, DisplayPort",
+        "price": 395,
+        "filters": [
+          "NVIDIA",
+          "Gigabyte",
+          "RTX 3050"
+        ],
+        "characteristics": [
+          {
+            "name": "Interface",
+            "value": "PCI Express x8 4.0"
+          },
+          {
+            "name": "GPU",
+            "value": "GeForce RTX 3050"
+          },
+          {
+            "name": "CUDA-cores",
+            "value": "2560"
+          },
+          {
+            "name": "RT-core",
+            "value": "20"
+          },
+          {
+            "name": "VRAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "VRAM type",
+            "value": "GDDR6"
+          },
+          {
+            "name": "Nutrition connector",
+            "value": "8 pin"
+          },
+          {
+            "name": "Recommended power unit",
+            "value": "450 Wt"
+          },
+          {
+            "name": "Thickness of cooling system",
+            "value": "2 slots"
+          },
+          {
+            "name": "Length",
+            "value": "213 mm"
+          },
+          {
+            "name": "Width",
+            "value": "120 mm"
+          }
+        ]
+      }
+    ]
+  },
+  "CPUs": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "Intel",
+          "AMD"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Cores",
+        "values": [
+          "4",
+          "6",
+          "8",
+          "10",
+          "12",
+          "14",
+          "16",
+          "24"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Model row",
+        "values": [
+          "Core i9",
+          "Core i7",
+          "Core i5",
+          "Core i3",
+          "Ryzen 9",
+          "Ryzen 7",
+          "Ryzen 5",
+          "Ryzen 3"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "CPU1",
+        "name": "Intel Core i9-13900K",
+        "image": "images/Intel_Core_i9-13900K.jpeg",
+        "description": "Raptor Lake, LGA1700, 24 cores, frequency 5.8/2.2 Ghz, cash 32 MB + 36 MB, technical process 10 nm, TDP 253W",
+        "price": 845,
+        "filters": [
+          "Intel",
+          "24",
+          "Core i9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i9"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "24"
+          },
+          {
+            "name": "Threads",
+            "value": "32"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.2 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.8 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "32 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "36 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "Intel UHD Graphics 770, 1.65 Ghz, 32EU"
+          },
+          {
+            "name": "TDP",
+            "value": "253 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU2",
+        "name": "Intel Core i9-13900KF",
+        "image": "images/Intel_Core_i9-13900K.jpeg",
+        "description": "Raptor Lake, LGA1700, 24 cores, frequency 5.8/2.2 Ghz, cash 32 MB + 36 MB, technical process 10 nm, TDP 253W",
+        "price": 785,
+        "filters": [
+          "Intel",
+          "24",
+          "Core i9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i9"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "24"
+          },
+          {
+            "name": "Threads",
+            "value": "32"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.2 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.8 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "32 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "36 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "253 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU3",
+        "name": "Intel Core i9-12900K",
+        "image": "images/Intel_Core_i9-12900K.jpeg",
+        "description": "Alder Lake, LGA1700, 16 cores, frequency 5.2/2.4 Ghz, cash 14 MB + 30 MB, technical process 10 nm, TDP 241W",
+        "price": 615,
+        "filters": [
+          "Intel",
+          "16",
+          "Core i9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i9"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "16"
+          },
+          {
+            "name": "Threads",
+            "value": "24"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.4 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.2 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "14 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "30 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "Intel UHD Graphics 770"
+          },
+          {
+            "name": "TDP",
+            "value": "241 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU4",
+        "name": "Intel Core i9-12900KF",
+        "image": "images/Intel_Core_i9-12900K.jpeg",
+        "description": "Alder Lake, LGA1700, 16 cores, frequency 5.2/2.4 Ghz, cash 14 MB + 30 MB, technical process 10 nm, TDP 241W",
+        "price": 615,
+        "filters": [
+          "Intel",
+          "16",
+          "Core i9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i9"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "16"
+          },
+          {
+            "name": "Threads",
+            "value": "24"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.4 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.2 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "14 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "30 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "241 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU5",
+        "name": "AMD Ryzen 9 7950X",
+        "image": "images/AMD_Ryzen_9_7950X.jpeg",
+        "description": "Raphael, AM5, 16 cores, frequency 5.7/4.5 Ghz, cash 16 MB + 64 MB, technical process 5 nm, TDP 170W",
+        "price": 755,
+        "filters": [
+          "AMD",
+          "16",
+          "Ryzen 9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 9"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5"
+          },
+          {
+            "name": "Cores",
+            "value": "16"
+          },
+          {
+            "name": "Threads",
+            "value": "32"
+          },
+          {
+            "name": "Base frequency",
+            "value": "4.5 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.7 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "16 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "64 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "AMD Radeon Graphics, 2 cores, 2200 Mhz"
+          },
+          {
+            "name": "TDP",
+            "value": "170 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "5 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU6",
+        "name": "AMD Ryzen 9 7900X",
+        "image": "images/AMD_Ryzen_9_7950X.jpeg",
+        "description": "Raphael, AM5, 12 cores, frequency 5.6/4.7 Ghz, cash 12 MB + 64 MB, technical process 5 nm, TDP 170W",
+        "price": 610,
+        "filters": [
+          "AMD",
+          "12",
+          "Ryzen 9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 9"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5"
+          },
+          {
+            "name": "Cores",
+            "value": "12"
+          },
+          {
+            "name": "Threads",
+            "value": "24"
+          },
+          {
+            "name": "Base frequency",
+            "value": "4.7 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.6 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "12 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "64 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "AMD Radeon Graphics, 2 cores, 2200 Mhz"
+          },
+          {
+            "name": "TDP",
+            "value": "170 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "5 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU7",
+        "name": "AMD Ryzen 9 5950X",
+        "image": "images/AMD_Ryzen_9_5950X.jpeg",
+        "description": "Vermeer, AM4, 16 cores, frequency 4.9/3.4 Ghz, cash 8 MB + 64 MB, technical process 7 nm, TDP 105W",
+        "price": 630,
+        "filters": [
+          "AMD",
+          "16",
+          "Ryzen 9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 9"
+          },
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Cores",
+            "value": "16"
+          },
+          {
+            "name": "Threads",
+            "value": "32"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.4 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.9 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "8 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "64 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "105 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "7 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU8",
+        "name": "AMD Ryzen 9 5900X",
+        "image": "images/AMD_Ryzen_9_5950X.jpeg",
+        "description": "Vermeer, AM4, 12 cores, frequency 4.8/3.7 Ghz, cash 6 MB + 64 MB, technical process 7 nm, TDP 105W",
+        "price": 445,
+        "filters": [
+          "AMD",
+          "12",
+          "Ryzen 9"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 9"
+          },
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Cores",
+            "value": "12"
+          },
+          {
+            "name": "Threads",
+            "value": "24"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.7 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.8 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "6 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "64 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "105 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "7 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU9",
+        "name": "Intel Core i7-13700K",
+        "image": "images/Intel_Core_i7-13700K.jpeg",
+        "description": "Raptor Lake, LGA1700, 16 cores, frequency 5.4/2.5 Ghz, cash 24 MB + 30 MB, technical process 10 nm, TDP 253W",
+        "price": 575,
+        "filters": [
+          "Intel",
+          "16",
+          "Core i7"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i7"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "16"
+          },
+          {
+            "name": "Threads",
+            "value": "24"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.5 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.4 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "24 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "30 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "Intel UHD Graphics 770, 1.6 Ghz, 32EU"
+          },
+          {
+            "name": "TDP",
+            "value": "253 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU10",
+        "name": "Intel Core i7-13700KF",
+        "image": "images/Intel_Core_i7-13700K.jpeg",
+        "description": "Raptor Lake, LGA1700, 16 cores, frequency 5.4/2.5 Ghz, cash 24 MB + 30 MB, technical process 10 nm, TDP 253W",
+        "price": 530,
+        "filters": [
+          "Intel",
+          "16",
+          "Core i7"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i7"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "16"
+          },
+          {
+            "name": "Threads",
+            "value": "24"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.5 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.4 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "24 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "30 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "253 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU11",
+        "name": "Intel Core i7-12700K",
+        "image": "images/Intel_Core_i7-12700K.jpeg",
+        "description": "Alder Lake, LGA1700, 12 cores, frequency 5/2.7 Ghz, cash 12 MB + 25 MB, technical process 10 nm, TDP 190W",
+        "price": 455,
+        "filters": [
+          "Intel",
+          "12",
+          "Core i7"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i7"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "12"
+          },
+          {
+            "name": "Threads",
+            "value": "20"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.7 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "12 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "25 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "Intel UHD Graphics 770"
+          },
+          {
+            "name": "TDP",
+            "value": "190 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU12",
+        "name": "Intel Core i7-12700KF",
+        "image": "images/Intel_Core_i7-12700K.jpeg",
+        "description": "Alder Lake, LGA1700, 12 cores, frequency 5/2.7 Ghz, cash 12 MB + 25 MB, technical process 10 nm, TDP 190W",
+        "price": 455,
+        "filters": [
+          "Intel",
+          "12",
+          "Core i7"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i7"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "12"
+          },
+          {
+            "name": "Threads",
+            "value": "20"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.7 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "12 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "25 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "190 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU13",
+        "name": "AMD Ryzen 7 7700X",
+        "image": "images/AMD_Ryzen_7_7700X.jpeg",
+        "description": "Raphael, AM5, 8 cores, frequency 5.4/4.5 Ghz, cash 8 MB + 32 MB, technical process 5 nm, TDP 105W",
+        "price": 445,
+        "filters": [
+          "AMD",
+          "8",
+          "Ryzen 7"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 7"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5"
+          },
+          {
+            "name": "Cores",
+            "value": "8"
+          },
+          {
+            "name": "Threads",
+            "value": "16"
+          },
+          {
+            "name": "Base frequency",
+            "value": "4.5 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.4 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "8 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "32 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "AMD Radeon Graphics, 2 cores, 2200 Mhz"
+          },
+          {
+            "name": "TDP",
+            "value": "105 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "5 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU14",
+        "name": "AMD Ryzen 7 5800X",
+        "image": "images/AMD_Ryzen_7_5800X.jpeg",
+        "description": "Vermeer, AM4, 8 cores, frequency 4.7/3.8 Ghz, cash 4 MB + 32 MB, technical process 7 nm, TDP 105W",
+        "price": 305,
+        "filters": [
+          "AMD",
+          "8",
+          "Ryzen 7"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 7"
+          },
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Cores",
+            "value": "8"
+          },
+          {
+            "name": "Threads",
+            "value": "16"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.8 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.7 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "4 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "32 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "105 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "7 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU15",
+        "name": "AMD Ryzen 7 5700X",
+        "image": "images/AMD_Ryzen_7_5700X.jpeg",
+        "description": "Vermeer, AM4, 8 cores, frequency 4.6/3.4 Ghz, cash 4 MB + 32 MB, technical process 7 nm, TDP 65W",
+        "price": 265,
+        "filters": [
+          "AMD",
+          "8",
+          "Ryzen 7"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 7"
+          },
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Cores",
+            "value": "8"
+          },
+          {
+            "name": "Threads",
+            "value": "16"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.4 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.6 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "4 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "32 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "65 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "7 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU16",
+        "name": "Intel Core i5-13600K",
+        "image": "images/Intel_Core_i5-13600K.jpeg",
+        "description": "Raptor Lake, LGA1700, 14 cores, frequency 5.1/2.6 Ghz, cash 20 MB + 24 MB, technical process 10 nm, TDP 181W",
+        "price": 420,
+        "filters": [
+          "Intel",
+          "14",
+          "Core i5"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i5"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "14"
+          },
+          {
+            "name": "Threads",
+            "value": "20"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.6 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.1 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "20 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "24 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "Intel UHD Graphics 770, 1.5 Ghz, 32EU"
+          },
+          {
+            "name": "TDP",
+            "value": "181 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU17",
+        "name": "Intel Core i5-13400",
+        "image": "images/Intel_Core_i5-13600K.jpeg",
+        "description": "Raptor Lake, LGA1700, 10 cores, frequency 4.6/1.8 Ghz, cash 9.5 MB + 20 MB, technical process 10 nm, TDP 148W",
+        "price": 255,
+        "filters": [
+          "Intel",
+          "10",
+          "Core i5"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i5"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "10"
+          },
+          {
+            "name": "Threads",
+            "value": "16"
+          },
+          {
+            "name": "Base frequency",
+            "value": "1.8 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.6 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "9.5 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "20 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "148 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU18",
+        "name": "Intel Core i5-12600K",
+        "image": "images/Intel_Core_i5-12600K.jpeg",
+        "description": "Alder Lake, LGA1700, 10 cores, frequency 4.9/2.8 Ghz, cash 9.5 MB + 20 MB, technical process 10 nm, TDP 150W",
+        "price": 345,
+        "filters": [
+          "Intel",
+          "10",
+          "Core i5"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i5"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "10"
+          },
+          {
+            "name": "Threads",
+            "value": "16"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.8 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.9 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "9.5 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "20 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "Intel UHD Graphics 770"
+          },
+          {
+            "name": "TDP",
+            "value": "150 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU19",
+        "name": "Intel Core i5-12400F",
+        "image": "images/Intel_Core_i5-12600K.jpeg",
+        "description": "Alder Lake, LGA1700, 6 cores, frequency 4.4/2.5 Ghz, cash 7.5 MB + 18 MB, technical process 10 nm, TDP 117W",
+        "price": 200,
+        "filters": [
+          "Intel",
+          "6",
+          "Core i5"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i5"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "6"
+          },
+          {
+            "name": "Threads",
+            "value": "12"
+          },
+          {
+            "name": "Base frequency",
+            "value": "2.5 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.4 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "7.5 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "18 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "117 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU20",
+        "name": "AMD Ryzen 5 7600X",
+        "image": "images/AMD_Ryzen_5_7600X.jpeg",
+        "description": "Raphael, AM5, 6 cores, frequency 5.3/4.7 Ghz, cash 6 MB + 32 MB, technical process 5 nm, TDP 105W",
+        "price": 330,
+        "filters": [
+          "AMD",
+          "6",
+          "Ryzen 5"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 5"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5"
+          },
+          {
+            "name": "Cores",
+            "value": "6"
+          },
+          {
+            "name": "Threads",
+            "value": "12"
+          },
+          {
+            "name": "Base frequency",
+            "value": "4.7 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "5.3 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "6 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "32 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "AMD Radeon Graphics, 2 cores, 2200 Mhz"
+          },
+          {
+            "name": "TDP",
+            "value": "105 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "5 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU21",
+        "name": "AMD Ryzen 5 5600X",
+        "image": "images/AMD_Ryzen_5_5600X.jpeg",
+        "description": "Vermeer, AM4, 6 cores, frequency 4.6/3.7 Ghz, cash 3 MB + 32 MB, technical process 7 nm, TDP 65W",
+        "price": 195,
+        "filters": [
+          "AMD",
+          "6",
+          "Ryzen 5"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 5"
+          },
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Cores",
+            "value": "6"
+          },
+          {
+            "name": "Threads",
+            "value": "12"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.7 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.6 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "3 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "32 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "65 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "7 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU22",
+        "name": "Intel Core i3-13100F",
+        "image": "images/Intel_Core_i3-13100F.jpeg",
+        "description": "Raptor Lake, LGA1700, 4 cores, frequency 4.5/3.4 Ghz, cash 5 MB + 12 MB, technical process 10 nm, TDP 89W",
+        "price": 150,
+        "filters": [
+          "Intel",
+          "4",
+          "Core i3"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i3"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "4"
+          },
+          {
+            "name": "Threads",
+            "value": "8"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.4 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.5 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "5 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "12 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "89 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU23",
+        "name": "Intel Core i3-12100F",
+        "image": "images/Intel_Core_i3-12100F.jpeg",
+        "description": "Alder Lake, LGA1700, 4 cores, frequency 4.3/3.3 Ghz, cash 5 MB + 12 MB, technical process 10 nm, TDP 89W",
+        "price": 110,
+        "filters": [
+          "Intel",
+          "4",
+          "Core i3"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Core i3"
+          },
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Cores",
+            "value": "4"
+          },
+          {
+            "name": "Threads",
+            "value": "8"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.3 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4.3 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "5 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "12 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "89 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "10 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU24",
+        "name": "AMD Ryzen 3 4100",
+        "image": "images/AMD_Ryzen_3_4100.jpeg",
+        "description": "Renoir, AM4, 4 cores, frequency 4/3.8 Ghz, cash 2 MB + 4 MB, technical process 7 nm, TDP 65W",
+        "price": 85,
+        "filters": [
+          "AMD",
+          "4",
+          "Ryzen 3"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 3"
+          },
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Cores",
+            "value": "4"
+          },
+          {
+            "name": "Threads",
+            "value": "8"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.8 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "2 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "4 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "no"
+          },
+          {
+            "name": "TDP",
+            "value": "65 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "7 nm"
+          }
+        ]
+      },
+      {
+        "id": "CPU25",
+        "name": "AMD Ryzen 3 3200G",
+        "image": "images/AMD_Ryzen_3_3200G.jpeg",
+        "description": "Picasso, AM4, 4 cores, frequency 4/3.6 Ghz, cash 2 MB + 4 MB, technical process 12 nm, TDP 65W",
+        "price": 115,
+        "filters": [
+          "AMD",
+          "4",
+          "Ryzen 3"
+        ],
+        "characteristics": [
+          {
+            "name": "Model row",
+            "value": "Ryzen 3"
+          },
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Cores",
+            "value": "4"
+          },
+          {
+            "name": "Threads",
+            "value": "4"
+          },
+          {
+            "name": "Base frequency",
+            "value": "3.6 Ghz"
+          },
+          {
+            "name": "Max frequency",
+            "value": "4 Ghz"
+          },
+          {
+            "name": "Cash L2",
+            "value": "2 MB"
+          },
+          {
+            "name": "Cash L3",
+            "value": "4 MB"
+          },
+          {
+            "name": "Graphics",
+            "value": "Radeon Vega 8 (8 cores, 1250 Mhz)"
+          },
+          {
+            "name": "TDP",
+            "value": "65 W"
+          },
+          {
+            "name": "Technical process",
+            "value": "12 nm"
+          }
+        ]
+      }
+    ]
+  },
+  "motherboards": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "Gigabyte",
+          "ASRock",
+          "ASUS"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Socket",
+        "values": [
+          "LGA1700",
+          "AM4",
+          "AM5"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Slots for RAM",
+        "values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "RAM type",
+        "values": [
+          "DDR4",
+          "DDR5"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "motherboard1",
+        "name": "Gigabyte B650M DS3H (rev. 1.0)",
+        "image": "images/Gigabyte_B650M_DS3H_(rev. 1.0).jpeg",
+        "description": "mATX, Socket AMD AM5, chipset AMD B650, RAM 4xDDR5, slots: 1xPCIe x16, 1xPCIe x1, 2xM.2",
+        "price": 235,
+        "filters": [
+          "Gigabyte",
+          "AM5",
+          "4",
+          "DDR5"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "AM5"
+          },
+          {
+            "name": "Chipset",
+            "value": "AMD B650"
+          },
+          {
+            "name": "Form-factor",
+            "value": "mATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "2"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "2"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "244 mm"
+          },
+          {
+            "name": "Width",
+            "value": "244 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard2",
+        "name": "ASRock X670E PG Lightning",
+        "image": "images/ASRock_X670E_PG_Lightning.jpeg",
+        "description": "ATX, Socket AMD AM5, chipset AMD X670E, RAM 4xDDR5, slots: 3xPCIe x16, 1xPCIe x1, 4xM.2",
+        "price": 380,
+        "filters": [
+          "ASRock",
+          "AM5",
+          "4",
+          "DDR5"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "AM5"
+          },
+          {
+            "name": "Chipset",
+            "value": "AMD X670E"
+          },
+          {
+            "name": "Form-factor",
+            "value": "ATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "4"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "1"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "305 mm"
+          },
+          {
+            "name": "Width",
+            "value": "244 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard3",
+        "name": "ASUS Prime B650M-A",
+        "image": "images/ASUS_Prime_B650M-A.jpeg",
+        "description": "mATX, Socket AMD AM5, chipset AMD B650, RAM 4xDDR5, slots: 3xPCIe x16, 2xM.2",
+        "price": 250,
+        "filters": [
+          "ASUS",
+          "AM5",
+          "4",
+          "DDR5"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "AM5"
+          },
+          {
+            "name": "Chipset",
+            "value": "AMD B650"
+          },
+          {
+            "name": "Form-factor",
+            "value": "mATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "2"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "1"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "244 mm"
+          },
+          {
+            "name": "Width",
+            "value": "244 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard4",
+        "name": "ASRock H610M-HVS",
+        "image": "images/ASRock_H610M-HVS.jpeg",
+        "description": "mATX, Socket Intel LGA1700, chipset Intel H610, RAM 2xDDR4, slots: 1xPCIe x16, 1xPCIe x1",
+        "price": 90,
+        "filters": [
+          "ASRock",
+          "LGA1700",
+          "2",
+          "DDR4"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Chipset",
+            "value": "Intel H610"
+          },
+          {
+            "name": "Form-factor",
+            "value": "mATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "RAM slots",
+            "value": "2"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "no"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "no"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "197 mm"
+          },
+          {
+            "name": "Width",
+            "value": "188 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard5",
+        "name": "ASRock B660M Pro RS",
+        "image": "images/ASRock_B660M_Pro_RS.jpeg",
+        "description": "mATX, Socket Intel LGA1700, chipset Intel B660, RAM 4xDDR4, slots: 2xPCIe x16, 1xPCIe x1, 2xM.2",
+        "price": 165,
+        "filters": [
+          "ASRock",
+          "LGA1700",
+          "4",
+          "DDR4"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Chipset",
+            "value": "Intel B660"
+          },
+          {
+            "name": "Form-factor",
+            "value": "mATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "2"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "1"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "244 mm"
+          },
+          {
+            "name": "Width",
+            "value": "244 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard6",
+        "name": "ASRock B760M PG Riptide",
+        "image": "images/ASRock_B760M_PG_Riptide.jpeg",
+        "description": "mATX, Socket Intel LGA1700, chipset Intel B760, RAM 4xDDR5, slots: 1xPCIe x16, 1xPCIe x1, 1xM.2",
+        "price": 210,
+        "filters": [
+          "ASRock",
+          "LGA1700",
+          "4",
+          "DDR5"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Chipset",
+            "value": "Intel B760"
+          },
+          {
+            "name": "Form-factor",
+            "value": "mATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "1"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "1"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "244 mm"
+          },
+          {
+            "name": "Width",
+            "value": "244 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard7",
+        "name": "ASRock Z790 PG Lightning",
+        "image": "images/ASRock_Z790_PG_Lightning.jpeg",
+        "description": "ATX, Socket Intel LGA1700, chipset Intel Z790, RAM 4xDDR5, slots: 2xPCIe x16, 3xPCIe x1, 4xM.2",
+        "price": 285,
+        "filters": [
+          "ASRock",
+          "LGA1700",
+          "4",
+          "DDR5"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "LGA1700"
+          },
+          {
+            "name": "Chipset",
+            "value": "Intel Z790"
+          },
+          {
+            "name": "Form-factor",
+            "value": "ATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "4"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "no"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "305 mm"
+          },
+          {
+            "name": "Width",
+            "value": "244 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard8",
+        "name": "ASUS Prime A320M-K",
+        "image": "images/ASUS_Prime_A320M-K.jpeg",
+        "description": "mATX, Socket AMD AM4, chipset AMD A320, RAM 2xDDR4, slots: 1xPCIe x16, 2xPCIe x1, 1xM.2",
+        "price": 75,
+        "filters": [
+          "ASUS",
+          "AM4",
+          "2",
+          "DDR4"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Chipset",
+            "value": "AMD A320"
+          },
+          {
+            "name": "Form-factor",
+            "value": "mATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "RAM slots",
+            "value": "2"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "1"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "no"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "221 mm"
+          },
+          {
+            "name": "Width",
+            "value": "226 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard9",
+        "name": "ASRock B550M Phantom Gaming 4",
+        "image": "images/ASRock_B550M_Phantom_Gaming_4.jpeg",
+        "description": "mATX, Socket AMD AM4, chipset AMD B550, RAM 4xDDR4, slots: 2xPCIe x16, 1xPCIe x1, 2xM.2",
+        "price": 135,
+        "filters": [
+          "ASRock",
+          "AM4",
+          "4",
+          "DDR4"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Chipset",
+            "value": "AMD B550"
+          },
+          {
+            "name": "Form-factor",
+            "value": "mATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "2"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "1"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "244 mm"
+          },
+          {
+            "name": "Width",
+            "value": "244 mm"
+          }
+        ]
+      },
+      {
+        "id": "motherboard10",
+        "name": "ASRock X570 Phantom Gaming 4",
+        "image": "images/ASRock_X570_Phantom_Gaming_4.jpeg",
+        "description": "ATX, Socket AMD AM4, chipset AMD X570, RAM 4xDDR4, slots: 2xPCIe x16, 2xPCIe x1, 2xM.2",
+        "price": 135,
+        "filters": [
+          "ASRock",
+          "AM4",
+          "4",
+          "DDR4"
+        ],
+        "characteristics": [
+          {
+            "name": "Socket",
+            "value": "AM4"
+          },
+          {
+            "name": "Chipset",
+            "value": "AMD X570"
+          },
+          {
+            "name": "Form-factor",
+            "value": "ATX"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "RAM slots",
+            "value": "4"
+          },
+          {
+            "name": "M.2 slots",
+            "value": "2"
+          },
+          {
+            "name": "Audio (3.5 mm jack)",
+            "value": "3"
+          },
+          {
+            "name": "DisplayPort",
+            "value": "1"
+          },
+          {
+            "name": "HDMI",
+            "value": "1"
+          },
+          {
+            "name": "Length",
+            "value": "229 mm"
+          },
+          {
+            "name": "Width",
+            "value": "305 mm"
+          }
+        ]
+      }
+    ]
+  },
+  "RAM": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "Kingston",
+          "G.Skill"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Type",
+        "values": [
+          "DDR5",
+          "DDR4"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Overal volume",
+        "values": [
+          "8",
+          "16",
+          "32",
+          "64"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "RAM1",
+        "name": "G.Skill Trident Z5 RGB 2x32GB DDR5 5600 Mhz",
+        "image": "images/G.Skill_Trident_Z5_RGB_2x32GB_DDR5_5600_Mhz.jpeg",
+        "description": "64 GB, 2 modules DDR5 DIMM x 32 GB, frequency 5600 Mhz, CL 28T, timings 28-34-34-89, voltage 1.35 V",
+        "price": 415,
+        "filters": [
+          "G.Skill",
+          "DDR5",
+          "64"
+        ],
+        "characteristics": [
+          {
+            "name": "Set",
+            "value": "2 modules"
+          },
+          {
+            "name": "Overal volume",
+            "value": "64 GB"
+          },
+          {
+            "name": "Volume of every module",
+            "value": "32 GB"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "frequency",
+            "value": "5600 Mhz"
+          },
+          {
+            "name": "Timings",
+            "value": "28-34-34-89"
+          },
+          {
+            "name": "Voltage",
+            "value": "1.35 V"
+          },
+          {
+            "name": "XMP Profile",
+            "value": "3.0"
+          }
+        ]
+      },
+      {
+        "id": "RAM2",
+        "name": "G.Skill Trident Z5 RGB 2x16GB DDR5",
+        "image": "images/G.Skill_Trident_Z5_RGB_2x32GB_DDR5_5600_Mhz.jpeg",
+        "description": "32 GB, 2 modules DDR5 DIMM x 16 GB, frequency 6000 Mhz, CL 36T, timings 36-36-36-96, voltage 1.35 V",
+        "price": 200,
+        "filters": [
+          "G.Skill",
+          "DDR5",
+          "32"
+        ],
+        "characteristics": [
+          {
+            "name": "Set",
+            "value": "2 modules"
+          },
+          {
+            "name": "Overal volume",
+            "value": "32 GB"
+          },
+          {
+            "name": "Volume of every module",
+            "value": "16 GB"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "frequency",
+            "value": "6000 Mhz"
+          },
+          {
+            "name": "Timings",
+            "value": "36-36-36-96"
+          },
+          {
+            "name": "Voltage",
+            "value": "1.35 V"
+          },
+          {
+            "name": "XMP Profile",
+            "value": "3.0"
+          }
+        ]
+      },
+      {
+        "id": "RAM3",
+        "name": "Kingston FURY Beast 2x8GB DDR5 5200Mhz",
+        "image": "images/Kingston_FURY_Beast_2x8GB_DDR5_5200Mhz.jpeg",
+        "description": "16 GB, 2 modules DDR5 DIMM x 8 GB, frequency 5200 Mhz, CL 40T, timings 40-40-40, voltage 1.25 V",
+        "price": 90,
+        "filters": [
+          "Kingston",
+          "DDR5",
+          "16"
+        ],
+        "characteristics": [
+          {
+            "name": "Set",
+            "value": "2 modules"
+          },
+          {
+            "name": "Overal volume",
+            "value": "16 GB"
+          },
+          {
+            "name": "Volume of every module",
+            "value": "8 GB"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR5"
+          },
+          {
+            "name": "frequency",
+            "value": "5200 Mhz"
+          },
+          {
+            "name": "Timings",
+            "value": "40-40-40"
+          },
+          {
+            "name": "Voltage",
+            "value": "1.25 V"
+          },
+          {
+            "name": "XMP Profile",
+            "value": "3.0"
+          }
+        ]
+      },
+      {
+        "id": "RAM4",
+        "name": "Kingston FURY Beast 2x32GB DDR4",
+        "image": "images/Kingston_FURY_Beast_2x32GB_DDR4.jpeg",
+        "description": "64 GB, 2 modules DDR4 DIMM x 32 GB, frequency 3200 Mhz, CL 16T, timings 16-20-20, voltage 1.35 V",
+        "price": 225,
+        "filters": [
+          "Kingston",
+          "DDR4",
+          "64"
+        ],
+        "characteristics": [
+          {
+            "name": "Set",
+            "value": "2 modules"
+          },
+          {
+            "name": "Overal volume",
+            "value": "64 GB"
+          },
+          {
+            "name": "Volume of every module",
+            "value": "32 GB"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "frequency",
+            "value": "3200 Mhz"
+          },
+          {
+            "name": "Timings",
+            "value": "16-20-20"
+          },
+          {
+            "name": "Voltage",
+            "value": "1.35 V"
+          },
+          {
+            "name": "XMP Profile",
+            "value": "yes"
+          }
+        ]
+      },
+      {
+        "id": "RAM5",
+        "name": "Kingston FURY Beast 2x16GB DDR4",
+        "image": "images/Kingston_FURY_Beast_2x32GB_DDR4.jpeg",
+        "description": "32 GB, 2 modules DDR4 DIMM x 16 GB, frequency 3200 Mhz, CL 16T, timings 16-18-18, voltage 1.35 V",
+        "price": 115,
+        "filters": [
+          "Kingston",
+          "DDR4",
+          "32"
+        ],
+        "characteristics": [
+          {
+            "name": "Set",
+            "value": "2 modules"
+          },
+          {
+            "name": "Overal volume",
+            "value": "32 GB"
+          },
+          {
+            "name": "Volume of every module",
+            "value": "16 GB"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "frequency",
+            "value": "3200 Mhz"
+          },
+          {
+            "name": "Timings",
+            "value": "16-18-18"
+          },
+          {
+            "name": "Voltage",
+            "value": "1.35 V"
+          },
+          {
+            "name": "XMP Profile",
+            "value": "yes"
+          }
+        ]
+      },
+      {
+        "id": "RAM6",
+        "name": "G.Skill Ripjaws V 2x8GB DDR4",
+        "image": "images/G.Skill_Ripjaws_V_2x8GB_DDR4.jpeg",
+        "description": "16 GB, 2 modules DDR4 DIMM x 8 GB, frequency 3200 Mhz, CL 16T, timings 16-18-18-38, voltage 1.35 V",
+        "price": 55,
+        "filters": [
+          "G.Skill",
+          "DDR4",
+          "16"
+        ],
+        "characteristics": [
+          {
+            "name": "Set",
+            "value": "2 modules"
+          },
+          {
+            "name": "Overal volume",
+            "value": "16 GB"
+          },
+          {
+            "name": "Volume of every module",
+            "value": "8 GB"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "frequency",
+            "value": "3200 Mhz"
+          },
+          {
+            "name": "Timings",
+            "value": "16-18-18-38"
+          },
+          {
+            "name": "Voltage",
+            "value": "1.35 V"
+          },
+          {
+            "name": "XMP Profile",
+            "value": "yes"
+          }
+        ]
+      },
+      {
+        "id": "RAM7",
+        "name": "G.Skill Ripjaws V 2x4GB DDR4",
+        "image": "images/G.Skill_Ripjaws_V_2x8GB_DDR4.jpeg",
+        "description": "8 GB, 2 modules DDR4 DIMM x 4 GB, frequency 3200 Mhz, CL 16T, timings 16-18-18-38, voltage 1.35 V",
+        "price": 45,
+        "filters": [
+          "G.Skill",
+          "DDR4",
+          "8"
+        ],
+        "characteristics": [
+          {
+            "name": "Set",
+            "value": "2 modules"
+          },
+          {
+            "name": "Overal volume",
+            "value": "8 GB"
+          },
+          {
+            "name": "Volume of every module",
+            "value": "4 GB"
+          },
+          {
+            "name": "RAM type",
+            "value": "DDR4"
+          },
+          {
+            "name": "frequency",
+            "value": "3200 Mhz"
+          },
+          {
+            "name": "Timings",
+            "value": "16-18-18-38"
+          },
+          {
+            "name": "Voltage",
+            "value": "1.35 V"
+          },
+          {
+            "name": "XMP Profile",
+            "value": "yes"
+          }
+        ]
+      }
+    ]
+  },
+  "coolingsystems": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "ID-Cooling",
+          "DeepCool",
+          "be quiet!"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Socket",
+        "values": [
+          "AM5",
+          "AM4",
+          "LGA1700"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Cooling",
+        "values": [
+          "air",
+          "liquid"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "cooling1",
+        "name": "be quiet! Pure Loop 360mm",
+        "image": "images/be quiet!_Pure_Loop_360mm.jpeg",
+        "description": "cooler for CPU, aluminium, noise 40.5 dB, fan 120 mm, 2000 rpm, PWM",
+        "price": 180,
+        "filters": [
+          "be quiet!",
+          "AM5",
+          "AM4",
+          "LGA1700",
+          "liquid"
+        ],
+        "characteristics": [
+          {
+            "name": "Cooling",
+            "value": "liquid"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5, AM4, LGA1700, LGA1200, LGA1151, LGA1151 v2, LGA1150, LGA1155, LGA2066, LGA2011-3 Square ILM, LGA2011 Square ILM, AM3+, AM3"
+          },
+          {
+            "name": "Diameter of fan",
+            "value": "120 mm"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "3"
+          },
+          {
+            "name": "Max rotation speed of fans",
+            "value": "2000 rpm"
+          },
+          {
+            "name": "PWM",
+            "value": "yes"
+          },
+          {
+            "name": "Type of connection of fans",
+            "value": "4 pin"
+          },
+          {
+            "name": "Max noise level",
+            "value": "40.5 dB"
+          },
+          {
+            "name": "Max rotation speed of water pump",
+            "value": "5500 rpm"
+          },
+          {
+            "name": "Type of connection of water pump",
+            "value": "3 pin"
+          }
+        ]
+      },
+      {
+        "id": "cooling2",
+        "name": "ID-Cooling FrostFlow X 240 Lite Snow",
+        "image": "images/ID-Cooling_FrostFlow_X_240_Lite_Snow.jpeg",
+        "description": "cooler for CPU, aluminium, diffusion under 250 W, noise 35.2 dB, fan 120 mm, 1800 rpm, PWM",
+        "price": 65,
+        "filters": [
+          "ID-Cooling",
+          "AM5",
+          "AM4",
+          "LGA1700",
+          "liquid"
+        ],
+        "characteristics": [
+          {
+            "name": "Cooling",
+            "value": "liquid"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5, AM4, LGA1700, LGA1200, LGA1151, LGA1151 v2, LGA1150, LGA1155, LGA2066, LGA2011-3 Square ILM, LGA2011 Square ILM, AM3+, AM3"
+          },
+          {
+            "name": "Diameter of fan",
+            "value": "120 mm"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "2"
+          },
+          {
+            "name": "Max rotation speed of fans",
+            "value": "1800 rpm"
+          },
+          {
+            "name": "PWM",
+            "value": "yes"
+          },
+          {
+            "name": "Type of connection of fans",
+            "value": "4 pin"
+          },
+          {
+            "name": "Max noise level",
+            "value": "35.2 dB"
+          },
+          {
+            "name": "Max rotation speed of water pump",
+            "value": "2100 rpm"
+          },
+          {
+            "name": "Type of connection of water pump",
+            "value": "3 pin"
+          }
+        ]
+      },
+      {
+        "id": "cooling3",
+        "name": "DeepCool AK620 Zero Dark",
+        "image": "images/DeepCool_AK620_Zero_Dark.jpeg",
+        "description": "cooler for CPU, aluminium, diffusion under 260 W, noise 28 dB, fan 120 mm, 1850 rpm, PWM",
+        "price": 85,
+        "filters": [
+          "DeepCool",
+          "AM5",
+          "AM4",
+          "LGA1700",
+          "air"
+        ],
+        "characteristics": [
+          {
+            "name": "Cooling",
+            "value": "air"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5, AM4, LGA1700, LGA1200, LGA1151, LGA1151 v2, LGA1150, LGA1155, LGA2066, LGA2011-3, LGA2011"
+          },
+          {
+            "name": "Diameter of fan",
+            "value": "120 mm"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "2"
+          },
+          {
+            "name": "Max rotation speed of fans",
+            "value": "1850 rpm"
+          },
+          {
+            "name": "PWM",
+            "value": "yes"
+          },
+          {
+            "name": "Type of connection of fans",
+            "value": "4 pin"
+          },
+          {
+            "name": "Max noise level",
+            "value": "28 dB"
+          }
+        ]
+      },
+      {
+        "id": "cooling4",
+        "name": "ID-Cooling SE-224-XTS ARGB",
+        "image": "images/ID-Cooling_SE-224-XTS_ARGB.jpeg",
+        "description": "cooler for CPU, aluminium, diffusion under 220 W, noise 28.9 dB, fan 120 mm, 1500 rpm, PWM",
+        "price": 30,
+        "filters": [
+          "ID-Cooling",
+          "AM5",
+          "AM4",
+          "LGA1700",
+          "air"
+        ],
+        "characteristics": [
+          {
+            "name": "Cooling",
+            "value": "air"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5, AM4, LGA1700, LGA1200, LGA1151, LGA1151 v2, LGA1150, LGA1155, LGA1156"
+          },
+          {
+            "name": "Diameter of fan",
+            "value": "120 mm"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "1"
+          },
+          {
+            "name": "Max rotation speed of fans",
+            "value": "1500 rpm"
+          },
+          {
+            "name": "PWM",
+            "value": "yes"
+          },
+          {
+            "name": "Type of connection of fans",
+            "value": "4 pin"
+          },
+          {
+            "name": "Max noise level",
+            "value": "28.9 dB"
+          }
+        ]
+      },
+      {
+        "id": "cooling5",
+        "name": "DeepCool GAMMA ARCHER",
+        "image": "images/DeepCool_GAMMA_ARCHER.jpg",
+        "description": "cooler for CPU, aluminium, diffusion under 95 W, noise 21 dB, fan 120 mm, 1600 rpm",
+        "price": 10,
+        "filters": [
+          "DeepCool",
+          "AM5",
+          "AM4",
+          "air"
+        ],
+        "characteristics": [
+          {
+            "name": "Cooling",
+            "value": "air"
+          },
+          {
+            "name": "Socket",
+            "value": "AM5, AM4, LGA1200, LGA1151, LGA1150, LGA1155, AM3+, AM3, AM2+, AM2, FM1, LGA775, LGA1156, 754, 939, 940"
+          },
+          {
+            "name": "Diameter of fan",
+            "value": "120 mm"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "1"
+          },
+          {
+            "name": "Max rotation speed of fans",
+            "value": "1600 rpm"
+          },
+          {
+            "name": "PWM",
+            "value": "no"
+          },
+          {
+            "name": "Type of connection of fans",
+            "value": "3 pin"
+          },
+          {
+            "name": "Max noise level",
+            "value": "21 dB"
+          }
+        ]
+      }
+    ]
+  },
+  "SSDs": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "Samsung",
+          "Corsair",
+          "Apacer",
+          "Kingston"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Volume",
+        "values": [
+          "250 GB",
+          "256 GB",
+          "500 GB",
+          "512 GB",
+          "1TB or more"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Form-factor",
+        "values": [
+          "M.2",
+          "2.5'"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "SSD1",
+        "name": "Samsung 870 QVO 8TB",
+        "image": "images/Samsung_870_QVO_8TB.jpeg",
+        "description": "8 TB, 2.5', SATA 3.0, controller Samsung MKX, microschemes 3D QLC NAND, sequential access: 560/530 MB/s, accidental access: 98000/88000 IOps",
+        "price": 777,
+        "filters": [
+          "Samsung",
+          "1TB or more",
+          "2.5'"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "8 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "2.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "560 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "530 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "98000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "88000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Thickness",
+            "value": "6.8 mm"
+          }
+        ]
+      },
+      {
+        "id": "SSD2",
+        "name": "Samsung 870 Evo 4TB",
+        "image": "images/Samsung_870_Evo_4TB.jpeg",
+        "description": "4 TB, 2.5', SATA 3.0, controller Samsung MKX, microschemes 3D TLC NAND, sequential access: 560/530 MB/s, accidental access: 98000/88000 IOps",
+        "price": 520,
+        "filters": [
+          "Samsung",
+          "1TB or more",
+          "2.5'"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "4 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "2.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "560 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "530 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "98000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "88000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Thickness",
+            "value": "6.8 mm"
+          }
+        ]
+      },
+      {
+        "id": "SSD3",
+        "name": "Samsung 870 Evo 2TB",
+        "image": "images/Samsung_870_Evo_4TB.jpeg",
+        "description": "2 TB, 2.5', SATA 3.0, controller Samsung MKX, microschemes 3D TLC NAND, sequential access: 560/530 MB/s, accidental access: 98000/88000 IOps",
+        "price": 215,
+        "filters": [
+          "Samsung",
+          "1TB or more",
+          "2.5'"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "2 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "2.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "560 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "530 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "98000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "88000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Thickness",
+            "value": "6.8 mm"
+          }
+        ]
+      },
+      {
+        "id": "SSD4",
+        "name": "Apacer Panther AS350 1TB",
+        "image": "images/Apacer_Panther_AS350_1TB.jpeg",
+        "description": "1 TB, 2.5', SATA 3.0, controller Samsung MKX, microschemes 3D TLC NAND, sequential access: 560/540 MB/s, accidental access: 93000/80000 IOps",
+        "price": 65,
+        "filters": [
+          "Apacer",
+          "1TB or more",
+          "2.5'"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "1 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "2.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "560 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "540 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "93000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "80000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Thickness",
+            "value": "7 mm"
+          }
+        ]
+      },
+      {
+        "id": "SSD5",
+        "name": "Apacer Panther AS350 1TB",
+        "image": "images/Apacer_Panther_AS350_1TB.jpeg",
+        "description": "512 GB, 2.5', SATA 3.0, controller Samsung MKX, microschemes 3D TLC NAND, sequential access: 560/540 MB/s, accidental access: 87000/80000 IOps",
+        "price": 35,
+        "filters": [
+          "Apacer",
+          "512 GB",
+          "2.5'"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "512 GB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "2.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "560 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "540 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "87000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "80000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Thickness",
+            "value": "7 mm"
+          }
+        ]
+      },
+      {
+        "id": "SSD6",
+        "name": "Apacer AS350X 256GB",
+        "image": "images/Apacer_AS350X_256GB.jpeg",
+        "description": "256 GB, 2.5', SATA 3.0, controller Samsung MKX, microschemes 3D TLC NAND, sequential access: 560/540 MB/s, accidental access: 81000/74000 IOps",
+        "price": 20,
+        "filters": [
+          "Apacer",
+          "256 GB",
+          "2.5'"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "256 GB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "2.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "560 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "540 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "81000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "74000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Thickness",
+            "value": "7 mm"
+          }
+        ]
+      },
+      {
+        "id": "SSD7",
+        "name": "Corsair MP600 PRO NH 8TB",
+        "image": "images/Corsair_MP600_PRO_NH_8TB.jpeg",
+        "description": "8 TB, M.2, PCI Express 4.0 x4 (NVMe 1.4), microschemes 3D TLC NAND, sequential access: 7000/6100 MB/s, accidental access: 950000/1200000 IOps, compatibility with PS5",
+        "price": 1585,
+        "filters": [
+          "Corsair",
+          "1TB or more",
+          "M.2"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "8 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "M.2"
+          },
+          {
+            "name": "Interface",
+            "value": "PCI Express 4.0 x4 (NVMe 1.4)"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "7000 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "6100 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "950000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "1200000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1600000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "10.9 W"
+          }
+        ]
+      },
+      {
+        "id": "SSD8",
+        "name": "Kingston KC3000 4TB",
+        "image": "images/Kingston_KC3000_4TB.jpeg",
+        "description": "4 TB, M.2, PCI Express 4.0 x4 (NVMe), controller Phison PS5018-E18, microschemes 3D TLC NAND, sequential access: 7000/7000 MB/s, accidental access: 1000000/1000000 IOps, compatibility with PS5",
+        "price": 615,
+        "filters": [
+          "Kingston",
+          "1TB or more",
+          "M.2"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "4 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "M.2"
+          },
+          {
+            "name": "Interface",
+            "value": "PCI Express 4.0 x4 (NVMe)"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "7000 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "7000 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "1000000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "1000000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1800000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "10.2 W"
+          }
+        ]
+      },
+      {
+        "id": "SSD9",
+        "name": "Kingston KC3000 2TB",
+        "image": "images/Kingston_KC3000_4TB.jpeg",
+        "description": "2 TB, M.2, PCI Express 4.0 x4 (NVMe), controller Phison PS5018-E18, microschemes 3D TLC NAND, sequential access: 7000/7000 MB/s, accidental access: 1000000/1000000 IOps, compatibility with PS5",
+        "price": 240,
+        "filters": [
+          "Kingston",
+          "1TB or more",
+          "M.2"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "2 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "M.2"
+          },
+          {
+            "name": "Interface",
+            "value": "PCI Express 4.0 x4 (NVMe)"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "7000 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "7000 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "1000000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "1000000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1800000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "9.9 W"
+          }
+        ]
+      },
+      {
+        "id": "SSD10",
+        "name": "Kingston KC3000 1TB",
+        "image": "images/Kingston_KC3000_4TB.jpeg",
+        "description": "1 TB, M.2, PCI Express 4.0 x4 (NVMe), controller Phison PS5018-E18, microschemes 3D TLC NAND, sequential access: 7000/6000 MB/s, accidental access: 900000/1000000 IOps, compatibility with PS5",
+        "price": 125,
+        "filters": [
+          "Kingston",
+          "1TB or more",
+          "M.2"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "1 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "M.2"
+          },
+          {
+            "name": "Interface",
+            "value": "PCI Express 4.0 x4 (NVMe)"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "7000 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "6000 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "900000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "1000000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1800000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "6.3 W"
+          }
+        ]
+      },
+      {
+        "id": "SSD11",
+        "name": "Samsung 980 500GB",
+        "image": "images/Samsung_980_500GB.jpeg",
+        "description": "500 GB, M.2, PCI Express 4.0 x4 (NVMe 1.4), controller Samsung Pablo, microschemes 3D TLC NAND, sequential access: 3100/2600 MB/s, accidental access: 400000/470000 IOps",
+        "price": 60,
+        "filters": [
+          "Samsung",
+          "500 GB",
+          "M.2"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "500 GB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "M.2"
+          },
+          {
+            "name": "Interface",
+            "value": "PCI Express 4.0 x4 (NVMe 1.4)"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "3100 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "2600 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "400000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "470000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "5.9 W"
+          }
+        ]
+      },
+      {
+        "id": "SSD12",
+        "name": "Samsung 970 Evo Plus 250GB",
+        "image": "images/Samsung_970_Evo_Plus_250GB.jpeg",
+        "description": "250 GB, M.2, PCI Express 4.0 x4 (NVMe 1.3), controller Samsung Phoenix, microschemes 3D TLC NAND, sequential access: 3500/2300 MB/s, accidental access: 250000/550000 IOps",
+        "price": 55,
+        "filters": [
+          "Samsung",
+          "250 GB",
+          "M.2"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "250 GB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "M.2"
+          },
+          {
+            "name": "Interface",
+            "value": "PCI Express 4.0 x4 (NVMe 1.3)"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "3500 MB/s"
+          },
+          {
+            "name": "Speed of sequential recording",
+            "value": "2300 MB/s"
+          },
+          {
+            "name": "Average speed of accidental reading",
+            "value": "250000 IOps"
+          },
+          {
+            "name": "Average speed of accidental recording",
+            "value": "550000 IOps"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1500000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "5 W"
+          }
+        ]
+      }
+    ]
+  },
+  "HDDs": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "WD",
+          "Seagate",
+          "Toshiba",
+          "Dell"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Volume",
+        "values": [
+          "1 TB",
+          "2 TB",
+          "4 TB",
+          "6 TB",
+          "8 TB",
+          "10 TB",
+          "12 TB",
+          "14 TB",
+          "16 TB",
+          "18 TB",
+          "20 TB"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Interface",
+        "values": [
+          "SATA 3.0 (6Gbps)",
+          "SAS 3.0 (12Gbps)"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "HDD1",
+        "name": "Seagate Exos X20 20TB",
+        "image": "images/Seagate_Exos_X20_20TB.jpeg",
+        "description": "3.5', SAS 3.0 (12Gbps), 7200 rpm, buffer 256 MB, access time 4.2 ms, technology CMR, filling helium",
+        "price": 535,
+        "filters": [
+          "Seagate",
+          "20 TB",
+          "SAS 3.0 (12Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "20 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SAS 3.0 (12Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "CMR"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Average access time",
+            "value": "4.16 ms"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "2500000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "9.8 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD2",
+        "name": "Seagate Exos X18 18TB",
+        "image": "images/Seagate_Exos_X18_18TB.jpeg",
+        "description": "3.5', SAS 3.0 (12Gbps), 7200 rpm, buffer 256 MB, access time 4.2 ms",
+        "price": 395,
+        "filters": [
+          "Seagate",
+          "18 TB",
+          "SAS 3.0 (12Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "18 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SAS 3.0 (12Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Speed of sequential reading",
+            "value": "270 MB/s"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Average access time",
+            "value": "4.16 ms"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "2500000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "9.9 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD3",
+        "name": "Toshiba MG08 16TB",
+        "image": "images/Toshiba_MG08_16TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 512 MB, technology CMR, filling helium",
+        "price": 395,
+        "filters": [
+          "Toshiba",
+          "16 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "16 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "CMR"
+          },
+          {
+            "name": "buffer",
+            "value": "512 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "20 dB"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "2500000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "8.28 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD4",
+        "name": "Seagate Exos X16 14TB",
+        "image": "images/Seagate_Exos_X16_14TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 256 MB",
+        "price": 345,
+        "filters": [
+          "Seagate",
+          "14 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "14 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "no info"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "2500000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "10 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD5",
+        "name": "Dell Seagate Exos X16 12TB",
+        "image": "images/Dell_Seagate_Exos_X16_12TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 256 MB",
+        "price": 240,
+        "filters": [
+          "Dell",
+          "12 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "12 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "no info"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "2500000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "9.5 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD6",
+        "name": "WD Ultrastar DC HC330 10TB",
+        "image": "images/WD_Ultrastar_DC_HC330_10TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm",
+        "price": 290,
+        "filters": [
+          "WD",
+          "10 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "10 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "no info"
+          },
+          {
+            "name": "Noise level",
+            "value": "no info"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "2000000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "9.2 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD7",
+        "name": "WD Purple 8TB",
+        "image": "images/WD_Purple_8TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 256 MB",
+        "price": 275,
+        "filters": [
+          "WD",
+          "8 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "8 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "29 dB"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "1000000 h"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "8.6 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD8",
+        "name": "Toshiba X300 6TB",
+        "image": "images/Toshiba_X300_6TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 256 MB",
+        "price": 215,
+        "filters": [
+          "Toshiba",
+          "6 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "6 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "31 dB"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "no info"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "7.72 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD9",
+        "name": "Toshiba X300 4TB",
+        "image": "images/Toshiba_X300_6TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 256 MB",
+        "price": 215,
+        "filters": [
+          "Toshiba",
+          "4 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "4 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "31 dB"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "no info"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "6.81 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD10",
+        "name": "WD Blue 2TB",
+        "image": "images/WD_Blue_2TB.jpeg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 256 MB, filling air",
+        "price": 215,
+        "filters": [
+          "WD",
+          "2 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "2 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "256 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "27 dB"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "no info"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "5.6 W"
+          }
+        ]
+      },
+      {
+        "id": "HDD11",
+        "name": "WD Caviar Blue 1TB",
+        "image": "images/WD_Caviar_Blue_1TB.jpg",
+        "description": "3.5', SATA 3.0 (6Gbps), 7200 rpm, buffer 64 MB, line speed 150/150 MB/s",
+        "price": 50,
+        "filters": [
+          "WD",
+          "1 TB",
+          "SATA 3.0 (6Gbps)"
+        ],
+        "characteristics": [
+          {
+            "name": "Volume",
+            "value": "1 TB"
+          },
+          {
+            "name": "Form-factor",
+            "value": "3.5'"
+          },
+          {
+            "name": "Interface",
+            "value": "SATA 3.0 (6Gbps)"
+          },
+          {
+            "name": "Spindle speed",
+            "value": "7200 rpm"
+          },
+          {
+            "name": "Recording technology",
+            "value": "no info"
+          },
+          {
+            "name": "buffer",
+            "value": "64 MB"
+          },
+          {
+            "name": "Noise level",
+            "value": "30 dB"
+          },
+          {
+            "name": "Mean time before failure",
+            "value": "no info"
+          },
+          {
+            "name": "Energy consumption",
+            "value": "6.8 W"
+          }
+        ]
+      }
+    ]
+  },
+  "computercases": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "Zalman",
+          "Thermaltake",
+          "Cougar",
+          "be quiet!",
+          "Powercase"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Max motherboard size",
+        "values": [
+          "ATX",
+          "eATX"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Type",
+        "values": [
+          "Full tower",
+          "Mid tower"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "case1",
+        "name": "Zalman Z-Machine 500",
+        "image": "images/Zalman_Z-Machine_500.jpeg",
+        "description": "Mid Tower, no power supply, for motherboards ATX/micro-ATX/eATX/mini-ITX, 5 fans, 2xUSB 2.0, 2xUSB 3.0, window: strained glass, black",
+        "price": 1400,
+        "filters": [
+          "Zalman",
+          "eATX",
+          "Mid tower"
+        ],
+        "characteristics": [
+          {
+            "name": "Type",
+            "value": "Mid tower"
+          },
+          {
+            "name": "Material",
+            "value": "aluminium"
+          },
+          {
+            "name": "Max motherboard size",
+            "value": "eATX (280 mm)"
+          },
+          {
+            "name": "Compatibile motherboards",
+            "value": "ATX, micro-ATX, eATX, mini-ITX"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "5"
+          },
+          {
+            "name": "Max videocard length",
+            "value": "410 mm"
+          },
+          {
+            "name": "Max CPU cooler height",
+            "value": "210 mm"
+          },
+          {
+            "name": "Max power supply length",
+            "value": "200 mm"
+          },
+          {
+            "name": "Height",
+            "value": "602 mm"
+          },
+          {
+            "name": "Width",
+            "value": "280 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "630 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "10.5 kg"
+          }
+        ]
+      },
+      {
+        "id": "case2",
+        "name": "Thermaltake DistroCase 350P",
+        "image": "images/Thermaltake_DistroCase_350P.jpeg",
+        "description": "Mid Tower, no power supply, for motherboards ATX/micro-ATX/mini-ITX, 0 fans with rotation control, 2xUSB 2.0, 2xUSB 3.0, window: strained glass, black/transparent",
+        "price": 775,
+        "filters": [
+          "Thermaltake",
+          "ATX",
+          "Mid tower"
+        ],
+        "characteristics": [
+          {
+            "name": "Type",
+            "value": "Mid tower"
+          },
+          {
+            "name": "Material",
+            "value": "steel, glass"
+          },
+          {
+            "name": "Max motherboard size",
+            "value": "ATX (12' x 9.6')"
+          },
+          {
+            "name": "Compatibile motherboards",
+            "value": "ATX, micro-ATX, mini-ITX"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "0, 2 are possible"
+          },
+          {
+            "name": "Max videocard length",
+            "value": "320 mm"
+          },
+          {
+            "name": "Max CPU cooler height",
+            "value": "130 mm"
+          },
+          {
+            "name": "Max power supply length",
+            "value": "200 mm"
+          },
+          {
+            "name": "Height",
+            "value": "567 mm"
+          },
+          {
+            "name": "Width",
+            "value": "333 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "490 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "17.78 kg"
+          }
+        ]
+      },
+      {
+        "id": "case3",
+        "name": "Cougar Conquer",
+        "image": "images/Cougar_Conquer.jpeg",
+        "description": "Full Tower, no power supply, for motherboards ATX/micro-ATX/mini-ITX, 3 fans, 2xUSB 3.0, window: strained glass, black/orange",
+        "price": 400,
+        "filters": [
+          "Cougar",
+          "ATX",
+          "Full tower"
+        ],
+        "characteristics": [
+          {
+            "name": "Type",
+            "value": "Full tower"
+          },
+          {
+            "name": "Material",
+            "value": "aluminium"
+          },
+          {
+            "name": "Max motherboard size",
+            "value": "ATX"
+          },
+          {
+            "name": "Compatibile motherboards",
+            "value": "ATX, micro-ATX, mini-ITX"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "3, 5 are possible"
+          },
+          {
+            "name": "Max videocard length",
+            "value": "350 mm"
+          },
+          {
+            "name": "Max CPU cooler height",
+            "value": "190 mm"
+          },
+          {
+            "name": "Max power supply length",
+            "value": "220 mm"
+          },
+          {
+            "name": "Height",
+            "value": "580 mm"
+          },
+          {
+            "name": "Width",
+            "value": "255 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "685 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "no info"
+          }
+        ]
+      },
+      {
+        "id": "case4",
+        "name": "be quiet! PURE BASE 500DX BGW37",
+        "image": "images/be_quiet!_PURE_BASE_500DX_BGW37.jpeg",
+        "description": "Mid Tower, no power supply, for motherboards ATX/micro-ATX/mini-ITX, 3 fans, 1xUSB 3.0, window: strained glass, black",
+        "price": 170,
+        "filters": [
+          "be quiet!",
+          "ATX",
+          "Mid tower"
+        ],
+        "characteristics": [
+          {
+            "name": "Type",
+            "value": "Mid tower"
+          },
+          {
+            "name": "Material",
+            "value": "steel"
+          },
+          {
+            "name": "Max motherboard size",
+            "value": "ATX"
+          },
+          {
+            "name": "Compatibile motherboards",
+            "value": "ATX, micro-ATX, mini-ITX"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "3, 6 are possible"
+          },
+          {
+            "name": "Max videocard length",
+            "value": "369 mm"
+          },
+          {
+            "name": "Max CPU cooler height",
+            "value": "190 mm"
+          },
+          {
+            "name": "Max power supply length",
+            "value": "258 mm"
+          },
+          {
+            "name": "Height",
+            "value": "443 mm"
+          },
+          {
+            "name": "Width",
+            "value": "232 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "450 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "7.8 kg"
+          }
+        ]
+      },
+      {
+        "id": "case5",
+        "name": "Powercase Mistral X4 Mesh LED",
+        "image": "images/Powercase_Mistral_X4_Mesh_LED.jpeg",
+        "description": "Mid Tower, no power supply, for motherboards ATX/micro-ATX/mini-ITX, 4 fans, 2xUSB 2.0, 1xUSB 3.0, window: strained glass, black",
+        "price": 70,
+        "filters": [
+          "Powercase",
+          "ATX",
+          "Mid tower"
+        ],
+        "characteristics": [
+          {
+            "name": "Type",
+            "value": "Mid tower"
+          },
+          {
+            "name": "Material",
+            "value": "steel"
+          },
+          {
+            "name": "Max motherboard size",
+            "value": "ATX"
+          },
+          {
+            "name": "Compatibile motherboards",
+            "value": "ATX, micro-ATX, mini-ITX"
+          },
+          {
+            "name": "Amount of fans",
+            "value": "4, 6 are possible"
+          },
+          {
+            "name": "Max videocard length",
+            "value": "310 mm"
+          },
+          {
+            "name": "Max CPU cooler height",
+            "value": "160 mm"
+          },
+          {
+            "name": "Max power supply length",
+            "value": "185 mm"
+          },
+          {
+            "name": "Height",
+            "value": "440 mm"
+          },
+          {
+            "name": "Width",
+            "value": "190 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "400 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "no info"
+          }
+        ]
+      }
+    ]
+  },
+  "powersupplies": {
+    "filters": [
+      {
+        "id": 1,
+        "name": "Manufacturer",
+        "values": [
+          "DeepCool",
+          "be quiet!",
+          "Chieftec"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Power, W",
+        "values": [
+          "1200",
+          "1000",
+          "800",
+          "700",
+          "600",
+          "500"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Certificate 80 PLUS",
+        "values": [
+          "platinum",
+          "gold",
+          "base"
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "power_supply1",
+        "name": "be quiet! Straight Power 11 Platinum 1200W",
+        "image": "images/be_quiet!_Straight_Power_11_Platinum_1200W.jpeg",
+        "description": "1200 W, active PFC, efficiency 93%, platinum certificate, fan 1x135 mm, modular cables, 12V 38 A",
+        "price": 415,
+        "filters": [
+          "be quiet!",
+          "1200",
+          "platinum"
+        ],
+        "characteristics": [
+          {
+            "name": "Power",
+            "value": "1200 W"
+          },
+          {
+            "name": "Mains input voltage range",
+            "value": "100 - 240 V"
+          },
+          {
+            "name": "Max line current +12V",
+            "value": "38 A"
+          },
+          {
+            "name": "PFC",
+            "value": "active"
+          },
+          {
+            "name": "Efficiency",
+            "value": "93 %"
+          },
+          {
+            "name": "Certificate 80 PLUS",
+            "value": "platinum"
+          },
+          {
+            "name": "Power cable length 12V",
+            "value": "0.6 m"
+          },
+          {
+            "name": "Motherboard nutrition",
+            "value": "20 + 4 pin"
+          },
+          {
+            "name": "Height",
+            "value": "86 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "170 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "1.93 kg"
+          }
+        ]
+      },
+      {
+        "id": "power_supply2",
+        "name": "DeepCool PQ1000M",
+        "image": "images/DeepCool_PQ1000M.jpeg",
+        "description": "1000 W, active PFC, efficiency 90%, gold certificate, fan 1x120 mm, modular cables, 12V 83 A",
+        "price": 215,
+        "filters": [
+          "DeepCool",
+          "1000",
+          "gold"
+        ],
+        "characteristics": [
+          {
+            "name": "Power",
+            "value": "1000 W"
+          },
+          {
+            "name": "Mains input voltage range",
+            "value": "100 - 240 V"
+          },
+          {
+            "name": "Max line current +12V",
+            "value": "83 A"
+          },
+          {
+            "name": "PFC",
+            "value": "active"
+          },
+          {
+            "name": "Efficiency",
+            "value": "90 %"
+          },
+          {
+            "name": "Certificate 80 PLUS",
+            "value": "gold"
+          },
+          {
+            "name": "Power cable length 12V",
+            "value": "no info"
+          },
+          {
+            "name": "Motherboard nutrition",
+            "value": "20 + 4 pin"
+          },
+          {
+            "name": "Height",
+            "value": "86 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "140 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "no info"
+          }
+        ]
+      },
+      {
+        "id": "power_supply3",
+        "name": "DeepCool PM800D",
+        "image": "images/DeepCool_PM800D.jpeg",
+        "description": "800 W, active PFC, efficiency 90%, gold certificate, fan 1x120 mm, 12V 66.5 A",
+        "price": 120,
+        "filters": [
+          "DeepCool",
+          "800",
+          "gold"
+        ],
+        "characteristics": [
+          {
+            "name": "Power",
+            "value": "800 W"
+          },
+          {
+            "name": "Mains input voltage range",
+            "value": "100 - 240 V"
+          },
+          {
+            "name": "Max line current +12V",
+            "value": "66.5 A"
+          },
+          {
+            "name": "PFC",
+            "value": "active"
+          },
+          {
+            "name": "Efficiency",
+            "value": "90 %"
+          },
+          {
+            "name": "Certificate 80 PLUS",
+            "value": "gold"
+          },
+          {
+            "name": "Power cable length 12V",
+            "value": "no info"
+          },
+          {
+            "name": "Motherboard nutrition",
+            "value": "20 + 4 pin"
+          },
+          {
+            "name": "Height",
+            "value": "86 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "140 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "no info"
+          }
+        ]
+      },
+      {
+        "id": "power_supply4",
+        "name": "Chieftec Core BBS-700S",
+        "image": "images/Chieftec_Core_BBS-700S.jpeg",
+        "description": "700 W, active PFC, efficiency 90%, gold certificate, fan 1x120 mm, 12V 58 A",
+        "price": 95,
+        "filters": [
+          "Chieftec",
+          "700",
+          "gold"
+        ],
+        "characteristics": [
+          {
+            "name": "Power",
+            "value": "700 W"
+          },
+          {
+            "name": "Mains input voltage range",
+            "value": "100 - 240 V"
+          },
+          {
+            "name": "Max line current +12V",
+            "value": "58 A"
+          },
+          {
+            "name": "PFC",
+            "value": "active"
+          },
+          {
+            "name": "Efficiency",
+            "value": "90 %"
+          },
+          {
+            "name": "Certificate 80 PLUS",
+            "value": "gold"
+          },
+          {
+            "name": "Power cable length 12V",
+            "value": "0.65 m"
+          },
+          {
+            "name": "Motherboard nutrition",
+            "value": "20 + 4 pin"
+          },
+          {
+            "name": "Height",
+            "value": "87 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "140 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "no info"
+          }
+        ]
+      },
+      {
+        "id": "power_supply5",
+        "name": "Chieftec Core BBS-600S",
+        "image": "images/Chieftec_Core_BBS-600S.jpeg",
+        "description": "600 W, active PFC, efficiency 90%, gold certificate, fan 1x120 mm, 12V 49 A",
+        "price": 85,
+        "filters": [
+          "Chieftec",
+          "600",
+          "gold"
+        ],
+        "characteristics": [
+          {
+            "name": "Power",
+            "value": "600 W"
+          },
+          {
+            "name": "Mains input voltage range",
+            "value": "100 - 240 V"
+          },
+          {
+            "name": "Max line current +12V",
+            "value": "49 A"
+          },
+          {
+            "name": "PFC",
+            "value": "active"
+          },
+          {
+            "name": "Efficiency",
+            "value": "90 %"
+          },
+          {
+            "name": "Certificate 80 PLUS",
+            "value": "gold"
+          },
+          {
+            "name": "Power cable length 12V",
+            "value": "0.65 m"
+          },
+          {
+            "name": "Motherboard nutrition",
+            "value": "20 + 4 pin"
+          },
+          {
+            "name": "Height",
+            "value": "87 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "140 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "no info"
+          }
+        ]
+      },
+      {
+        "id": "power_supply6",
+        "name": "DeepCool PF500",
+        "image": "images/DeepCool_PF500.jpeg",
+        "description": "500 W, active PFC, efficiency 85%, base certificate, fan 1x120 mm, 12V 40 A",
+        "price": 50,
+        "filters": [
+          "DeepCool",
+          "500",
+          "base"
+        ],
+        "characteristics": [
+          {
+            "name": "Power",
+            "value": "500 W"
+          },
+          {
+            "name": "Mains input voltage range",
+            "value": "200 - 240 V"
+          },
+          {
+            "name": "Max line current +12V",
+            "value": "40 A"
+          },
+          {
+            "name": "PFC",
+            "value": "active"
+          },
+          {
+            "name": "Efficiency",
+            "value": "85 %"
+          },
+          {
+            "name": "Certificate 80 PLUS",
+            "value": "base"
+          },
+          {
+            "name": "Power cable length 12V",
+            "value": "no info"
+          },
+          {
+            "name": "Motherboard nutrition",
+            "value": "20 + 4 pin"
+          },
+          {
+            "name": "Height",
+            "value": "86 mm"
+          },
+          {
+            "name": "Width",
+            "value": "150 mm"
+          },
+          {
+            "name": "Depth",
+            "value": "140 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "no info"
+          }
+        ]
+      }
+    ]
+  }
+}
