@@ -1,9 +1,5 @@
-import { useSelector } from "react-redux";
-
 const Characteristics = () => {
-    const {currentProduct} = useSelector(state => state.product);
-
-    const {characteristics} = currentProduct;
+    const {characteristics} = JSON.parse(window.localStorage.getItem('currentProduct'));
 
     const renderCharacteristics = () => {
         return characteristics.map(item => {

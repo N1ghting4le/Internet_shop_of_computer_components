@@ -5,7 +5,7 @@ import { increaseTotalAmount, increaseTotalPrice, addItem } from "../../slices/c
 import { useEffect, useState } from "react";
 
 const SingleProduct = () => {
-    const {currentProduct} = useSelector(state => state.product);
+    const currentProduct = JSON.parse(window.localStorage.getItem('currentProduct'));
     const {initial} = useSelector(state => state.cart);
     const [addToCart] = useAddToCartMutation();
 

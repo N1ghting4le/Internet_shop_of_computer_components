@@ -1,11 +1,6 @@
-import { setCurrentCategory } from "../../slices/categoriesSlice";
-import { useDispatch } from 'react-redux';
-
 const CategoryItem = ({name, image, amount}) => {
-    const dispatch = useDispatch();
-
     const onCategorySelect = () => {
-        dispatch(setCurrentCategory(name));
+        window.localStorage.setItem('currentCategory', name);
     }
 
     return (

@@ -1,13 +1,8 @@
-import { setCurrentProduct } from '../../slices/singleProductSlice';
-import { useDispatch } from 'react-redux'; 
-
 const ProductItem = ({item}) => {
     const {name, image, description, price} = item;
 
-    const dispatch = useDispatch();
-
     const onProductSelect = () => {
-        dispatch(setCurrentProduct(item));
+        window.localStorage.setItem('currentProduct', JSON.stringify(item));
     }
 
     return (

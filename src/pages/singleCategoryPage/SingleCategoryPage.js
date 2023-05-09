@@ -3,13 +3,12 @@ import ProductsList from '../../components/productsList/ProductsList';
 import Spinner from '../../components/spinner/Spinner';
 
 import { useGetCategoryInfoQuery } from "../../api/apiSlice";
-import { useSelector } from "react-redux";
 
 import './singleCategoryPage.css';
 
 const SingleCategoryPage = () => {
-    const {currentCategory} = useSelector(store => store.categories);
-
+    const currentCategory = window.localStorage.getItem('currentCategory');
+    
     const {
         data: response = {},
         isLoading,
