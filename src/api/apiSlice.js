@@ -2,46 +2,25 @@ import {createApi, fetchBaseQuery} from '@reduxjs/toolkit/query/react';
 
 export const apiSlice = createApi({
     reducerPath: 'api',
-    baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:3001'}),
+    baseQuery: fetchBaseQuery({baseUrl: 'https://api.jsonbin.io/v3', prepareHeaders: (headers) => {
+        headers.set('X-Master-Key', '$2b$10$Gh3A9M7FdzujuNYHoIPLqOoyCSckBIjFCqvd5RPHV6cGsX982tv16');
+        return headers;
+    }}),
     endpoints: builder => ({
         getCategories: builder.query({
             query: () => ({
-                url: '/categories'
+                url: '/b/645cdc5c8e4aa6225e9af243/latest'
             })
         }),
         getCategoryInfo: builder.query({
-            query: category => ({
-                url: `/${category.replace(/ /g, '')}`
-            })
-        }),
-        getCartProducts: builder.query({
-            query: () => ({
-                url: '/cart'
-            }),
-            providesTags: ['Cart']
-        }),
-        addToCart: builder.mutation({
-            query: item => ({
-                url: '/cart',
-                method: 'POST',
-                body: item
-            }),
-            invalidatesTags: ['Cart']
-        }),
-        deleteFromCart: builder.mutation({
             query: id => ({
-                url: `/cart/${id}`,
-                method: 'DELETE'
-            }),
-            invalidatesTags: ['Cart']
+                url: `/b/${id}/latest`
+            })
         })
     })
 });
 
 export const {
     useGetCategoriesQuery,
-    useGetCategoryInfoQuery,
-    useGetCartProductsQuery,
-    useAddToCartMutation,
-    useDeleteFromCartMutation
+    useGetCategoryInfoQuery
 } = apiSlice;

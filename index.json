@@ -55,81 +55,8 @@
       "amount": "6 products"
     }
   ],
-  "cart": [
-    {
-      "id": "motherboard7",
-      "name": "ASRock Z790 PG Lightning",
-      "image": "images/ASRock_Z790_PG_Lightning.jpeg",
-      "description": "ATX, Socket Intel LGA1700, chipset Intel Z790, RAM 4xDDR5, slots: 2xPCIe x16, 3xPCIe x1, 4xM.2",
-      "price": 285,
-      "amount": 5
-    },
-    {
-      "id": "CPU1",
-      "name": "Intel Core i9-13900K",
-      "image": "images/Intel_Core_i9-13900K.jpeg",
-      "description": "Raptor Lake, LGA1700, 24 cores, frequency 5.8/2.2 Ghz, cash 32 MB + 36 MB, technical process 10 nm, TDP 253W",
-      "price": 845,
-      "amount": 5
-    },
-    {
-      "id": "videocard1",
-      "name": "Palit GeForce RTX 4090 GameRock 24G",
-      "image": "images/Palit_GeForce_RTX_4090_GameRock_24G.jpeg",
-      "description": "24 GB GDDR6X, 2230 Mhz / 2520 Mhz, 16384sp, 128 RT-cores, 384 bit, 3.5 slots, nutrition 16 pin, HDMI, DisplayPort",
-      "price": 2000,
-      "amount": 5
-    },
-    {
-      "id": "RAM1",
-      "name": "G.Skill Trident Z5 RGB 2x32GB DDR5 5600 Mhz",
-      "image": "images/G.Skill_Trident_Z5_RGB_2x32GB_DDR5_5600_Mhz.jpeg",
-      "description": "64 GB, 2 modules DDR5 DIMM x 32 GB, frequency 5600 Mhz, CL 28T, timings 28-34-34-89, voltage 1.35 V",
-      "price": 415,
-      "amount": 10
-    },
-    {
-      "id": "cooling1",
-      "name": "be quiet! Pure Loop 360mm",
-      "image": "images/be quiet!_Pure_Loop_360mm.jpeg",
-      "description": "cooler for CPU, aluminium, noise 40.5 dB, fan 120 mm, 2000 rpm, PWM",
-      "price": 180,
-      "amount": 5
-    },
-    {
-      "id": "SSD1",
-      "name": "Samsung 870 QVO 8TB",
-      "image": "images/Samsung_870_QVO_8TB.jpeg",
-      "description": "8 TB, 2.5', SATA 3.0, controller Samsung MKX, microschemes 3D QLC NAND, sequential access: 560/530 MB/s, accidental access: 98000/88000 IOps",
-      "price": 777,
-      "amount": 10
-    },
-    {
-      "id": "HDD1",
-      "name": "Seagate Exos X20 20TB",
-      "image": "images/Seagate_Exos_X20_20TB.jpeg",
-      "description": "3.5', SAS 3.0 (12Gbps), 7200 rpm, buffer 256 MB, access time 4.2 ms, technology CMR, filling helium",
-      "price": 535,
-      "amount": 5
-    },
-    {
-      "id": "case1",
-      "name": "Zalman Z-Machine 500",
-      "image": "images/Zalman_Z-Machine_500.jpeg",
-      "description": "Mid Tower, no power supply, for motherboards ATX/micro-ATX/eATX/mini-ITX, 5 fans, 2xUSB 2.0, 2xUSB 3.0, window: strained glass, black",
-      "price": 1400,
-      "amount": 5
-    },
-    {
-      "id": "power_supply1",
-      "name": "be quiet! Straight Power 11 Platinum 1200W",
-      "image": "images/be_quiet!_Straight_Power_11_Platinum_1200W.jpeg",
-      "description": "1200 W, active PFC, efficiency 93%, platinum certificate, fan 1x135 mm, modular cables, 12V 38 A",
-      "price": 415,
-      "amount": 5
-    }
-  ],
-  "videocards": {
+  "cart": [],
+  "1": {
     "filters": [
       {
         "id": 1,
@@ -2733,7 +2660,7 @@
       }
     ]
   },
-  "CPUs": {
+  "2": {
     "filters": [
       {
         "id": 1,
@@ -4225,7 +4152,7 @@
       }
     ]
   },
-  "motherboards": {
+  "3": {
     "filters": [
       {
         "id": 1,
@@ -4855,7 +4782,7 @@
       }
     ]
   },
-  "RAM": {
+  "4": {
     "filters": [
       {
         "id": 1,
@@ -5209,7 +5136,7 @@
       }
     ]
   },
-  "coolingsystems": {
+  "5": {
     "filters": [
       {
         "id": 1,
@@ -5496,7 +5423,7 @@
       }
     ]
   },
-  "SSDs": {
+  "6": {
     "filters": [
       {
         "id": 1,
@@ -6131,7 +6058,7 @@
       }
     ]
   },
-  "HDDs": {
+  "7": {
     "filters": [
       {
         "id": 1,
@@ -6722,7 +6649,7 @@
       }
     ]
   },
-  "computercases": {
+  "8": {
     "filters": [
       {
         "id": 1,
@@ -7065,7 +6992,7 @@
       }
     ]
   },
-  "powersupplies": {
+  "9": {
     "filters": [
       {
         "id": 1,

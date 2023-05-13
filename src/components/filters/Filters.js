@@ -1,15 +1,14 @@
 import { useDispatch } from "react-redux";
 import { useSelector } from "react-redux";
-import { useRef, useEffect } from "react";
+import { useEffect } from "react";
 
 import { addActiveFilter, removeActiveFilter, removeAllFilters } from "../../slices/filtersSlice";
+import { hideFilters } from "../../pages/singleCategoryPage/SingleCategoryPage";
 
 const Filters = ({filtersList}) => {
     const {activeFilters} = useSelector(state => state.filters);
 
     const dispatch = useDispatch();
-
-    const itemRefs = useRef([]);
 
     useEffect(() => {
         onActiveFiltersCheck();
@@ -24,7 +23,7 @@ const Filters = ({filtersList}) => {
     }
 
     const onActiveFiltersCheck = () => {
-        itemRefs.current.forEach(item => {
+        document.querySelectorAll('input').forEach(item => {
             activeFilters.forEach(filter => {
                 if (item.value === filter.value) {
                     item.checked = true;
@@ -33,9 +32,16 @@ const Filters = ({filtersList}) => {
         });
     }
 
+    const onKeyDown = (e) => {
+        if (e.code === 'Enter') {
+            e.target.checked = !e.target.checked;
+            onCheckboxToggle(e);
+        }
+    }
+
     const resetAllFilters = () => {
         dispatch(removeAllFilters());
-        itemRefs.current.forEach(item => {
+        document.querySelectorAll('input').forEach(item => {
             if (item) {
                 item.checked = false;
             }
@@ -50,7 +56,7 @@ const Filters = ({filtersList}) => {
                 <div key={item.id}>
                     <h3>{item.name}:</h3>
                     <div className="checkboxes">
-                        {item.values.map(item => <span key={item}><input type="checkbox" ref={el => itemRefs.current[itemRefs.current.length] = el} data-name={name} value={item} onChange={onCheckboxToggle}></input> {item}</span>)}
+                        {item.values.map(item => <label key={item}><input type="checkbox" data-name={name} value={item} onChange={onCheckboxToggle} onKeyDown={onKeyDown}></input> {item}</label>)}
                     </div>
                 </div>
             );
@@ -62,6 +68,7 @@ const Filters = ({filtersList}) => {
     return (
         <div className="filters">
             <h2>Filters</h2>
+            <button className="close" onClick={hideFilters}></button>
             {elements}
             <button className="reset_all" onClick={resetAllFilters}>reset all filters</button>
         </div>

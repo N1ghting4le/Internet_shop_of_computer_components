@@ -5,8 +5,7 @@ const cartAdapter = createEntityAdapter();
 const initialState = cartAdapter.getInitialState({
     totalPrice: 0,
     totalAmount: 0,
-    cartItems: [],
-    initial: true
+    cartItems: []
 });
 
 const cartSlice = createSlice({
@@ -27,9 +26,6 @@ const cartSlice = createSlice({
         },
         addItem: (state, action) => {
             state.cartItems.push(action.payload)
-        },
-        setCartItems: (state, action) => {
-            state.cartItems = action.payload;
         },
         removeItem: (state, action) => {
             state.cartItems = state.cartItems.filter(item => item.id !== action.payload)
@@ -54,9 +50,7 @@ export const {
     decreaseTotalAmount,
     decreaseTotalPrice,
     addItem,
-    setCartItems,
     removeItem,
     increaseItemAmount,
-    decreaseItemAmount,
-    toggleInitial
+    decreaseItemAmount
 } = actions;

@@ -49,3 +49,11 @@ header a.active:hover {
     width: 100%;
     text-align: center;
 }
+
+@media (max-width: 414px) {
+    header {
+        position: sticky;
+        top: 0;
+        z-index: 90;
+    }
+}

@@ -1,19 +1,13 @@
 import { useSelector } from "react-redux";
 import { useDispatch } from "react-redux";
-import { useGetCartProductsQuery, useAddToCartMutation } from "../../api/apiSlice";
 import { increaseTotalAmount, increaseTotalPrice, addItem } from "../../slices/cartSlice";
 import { useEffect, useState } from "react";
 
 const SingleProduct = () => {
     const currentProduct = JSON.parse(window.localStorage.getItem('currentProduct'));
-    const {initial} = useSelector(state => state.cart);
-    const [addToCart] = useAddToCartMutation();
+    const {cartItems} = useSelector(state => state.cart);
 
     const dispatch = useDispatch();
-
-    const {
-        data: response = []
-    } = useGetCartProductsQuery();
 
     const {id, name, image, description, price} = currentProduct;
 
@@ -21,7 +15,7 @@ const SingleProduct = () => {
 
     useEffect(() => {
         isInCart();
-    }, [response]);
+    }, [cartItems]);
 
     const createCartObj = () => {
         return {
@@ -36,17 +30,14 @@ const SingleProduct = () => {
 
     const onAddToCart = () => {
         const item = createCartObj();
-        addToCart(item).unwrap();
-        if (!initial) {
-            dispatch(increaseTotalAmount(1));
-            dispatch(increaseTotalPrice(price));
-            dispatch(addItem(item));
-        }
+        dispatch(increaseTotalAmount(1));
+        dispatch(increaseTotalPrice(price));
+        dispatch(addItem(item));
     }
 
     const isInCart = () => {
-        if (response.length > 0) {
-            response.forEach(item => {
+        if (cartItems.length > 0) {
+            cartItems.forEach(item => {
                 if (item.id === id) {
                     setAdded(true);
                 }

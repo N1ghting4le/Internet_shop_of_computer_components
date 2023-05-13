@@ -1,6 +1,9 @@
-const CategoryItem = ({name, image, amount}) => {
+const CategoryItem = ({item}) => {
+    const {name, id, image, amount} = item;
+
     const onCategorySelect = () => {
         window.localStorage.setItem('currentCategory', name);
+        window.localStorage.setItem('currentCategoryId', id);
     }
 
     return (

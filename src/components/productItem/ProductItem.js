@@ -5,7 +5,7 @@ const ProductItem = ({item}) => {
         window.localStorage.setItem('currentProduct', JSON.stringify(item));
     }
 
-    return (
+    return  (
         <li className="product_item" onClick={onProductSelect}>
             <img src={image} alt={name}></img>
             <div className="info">

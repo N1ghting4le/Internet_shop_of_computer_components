@@ -70,3 +70,49 @@
 .bold {
     font-weight: 700;
 }
+
+@media (max-width: 415px) {
+    .single_item_page_main {
+        padding: 0;
+    }
+
+    .single_item_page_main h2 {
+        font-size: 1.5rem;
+    }
+
+    .single_item_page_main > h2 {
+        padding: 0 10px;
+    }
+
+    .single_item_page_main h3 {
+        padding-left: 10px;
+    }
+
+    .img_and_descr {
+        flex-direction: column;
+        padding: 0 10px;
+        gap: 20px;
+    }
+
+    .description {
+        font-size: 18px;
+    }
+
+    .characteristics {
+        margin-bottom: 20px;
+    }
+
+    .characteristics > div {
+        justify-content: space-between;
+        gap: 5px;
+        flex-direction: column;
+        padding: 5px 0;
+    }
+
+    .characteristics > div > span {
+        box-sizing: border-box;
+        width: 100%;
+        line-height: 25px;
+        padding: 0 10px;
+    }
+}

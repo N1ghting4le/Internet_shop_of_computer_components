@@ -17,12 +17,12 @@ const CategoriesList = () => {
     } else if (isError) {
         return <h3>Error</h3>
     } else {
-        categories = response;
+        categories = response.record.categories;
     }
 
     const renderCategoriesList = () => {
         return categories.map(item => {
-            return <Link key={item.id} to={item.name}><CategoryItem name={item.name} image={item.image} amount={item.amount}/></Link>;
+            return <Link key={item.id} to={item.name}><CategoryItem item={item}/></Link>;
         });
     }
 
